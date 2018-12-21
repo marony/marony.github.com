@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on undefined</title>
+    <link>http://marony.github.io/post/</link>
+    <description>Recent content in Posts on undefined</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 21 Dec 2018 13:27:34 +0900</lastBuildDate>
+    
+	<atom:link href="http://marony.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HugoでMermaid.jsを使えるようにした</title>
+      <link>http://marony.github.io/2018/12/21/hugo%E3%81%A7mermaid.js%E3%82%92%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F/</link>
+      <pubDate>Fri, 21 Dec 2018 13:27:34 +0900</pubDate>
+      
+      <guid>http://marony.github.io/2018/12/21/hugo%E3%81%A7mermaid.js%E3%82%92%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F/</guid>
+      <description>HugoでMermaid.jsを使えるようにした こう書けば、 ｛｛&amp;lt; mermaid align=&amp;quot;left&amp;quot; &amp;gt;｝｝ graph LR; A[Hard edge] --&amp;gt;|Link text| B(Round edge) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result one] C --&amp;gt;|Two| E[Result two] ｛｛&amp;lt; /mermaid</description>
+    </item>
+    
+    <item>
+      <title>プロフィールページを更新</title>
+      <link>http://marony.github.io/2018/12/20/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Thu, 20 Dec 2018 10:36:22 +0900</pubDate>
+      
+      <guid>http://marony.github.io/2018/12/20/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E6%9B%B4%E6%96%B0/</guid>
+      <description>プロフィールページを更新 単なるイメージチェンジです。 心機一転。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>undefined on undefined </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://marony.github.io/</link>
+    <language>ja</language>
+    
+    
+    <updated>Fri, 21 Dec 2018 13:27:34 JST</updated>
+    
+    <item>
+      <title>HugoでMermaid.jsを使えるようにした</title>
+      <link>http://marony.github.io/2018/12/21/hugo%E3%81%A7mermaid.js%E3%82%92%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F/</link>
+      <pubDate>Fri, 21 Dec 2018 13:27:34 JST</pubDate>
+      
+      <guid>http://marony.github.io/2018/12/21/hugo%E3%81%A7mermaid.js%E3%82%92%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F/</guid>
+      <description>
+
+&lt;h2 id=&#34;hugoでmermaid-jsを使えるようにした&#34;&gt;HugoでMermaid.jsを使えるようにした&lt;/h2&gt;
+
+&lt;p&gt;こう書けば、&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;｛｛&amp;lt; mermaid align=&amp;quot;left&amp;quot; &amp;gt;｝｝
+  graph LR;
+  A[Hard edge] --&amp;gt;|Link text| B(Round edge)
+  B --&amp;gt; C{Decision}
+  C --&amp;gt;|One| D[Result one]
+  C --&amp;gt;|Two| E[Result two]
+｛｛&amp;lt; /mermaid &amp;gt;｝｝
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;こうなる。&lt;/p&gt;
+
+&lt;div class=&#34;mermaid&#34; align=&#34;left&#34;&gt;
+  graph LR;
+  A[Hard edge] --&gt;|Link text| B(Round edge)
+  B --&gt; C{Decision}
+  C --&gt;|One| D[Result one]
+  C --&gt;|Two| E[Result two]
+&lt;/div&gt;
+
+
+&lt;p&gt;※ コードブロックでエラーが出るので安直に半角の&amp;rsquo;{&amp;lsquo;, &amp;lsquo;}&amp;lsquo;を全角の&amp;rsquo;｛&amp;rsquo;, &amp;lsquo;｝&amp;rsquo;に置換して回避してます…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>プロフィールページを更新</title>
+      <link>http://marony.github.io/2018/12/20/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Thu, 20 Dec 2018 10:36:22 JST</pubDate>
+      
+      <guid>http://marony.github.io/2018/12/20/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E6%9B%B4%E6%96%B0/</guid>
+      <description>
+
+&lt;h2 id=&#34;プロフィールページを更新&#34;&gt;プロフィールページを更新&lt;/h2&gt;
+
+&lt;p&gt;単なるイメージチェンジです。
+心機一転。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>profile</title>
+      <link>http://marony.github.io/profile/</link>
+      <pubDate>Thu, 20 Dec 2018 09:29:42 JST</pubDate>
+      
+      <guid>http://marony.github.io/profile/</guid>
+      <description>
+
+&lt;h2 id=&#34;人種&#34;&gt;人種&lt;/h2&gt;
+
+&lt;p&gt;C#プログラマ@東京&lt;/p&gt;
+
+&lt;h2 id=&#34;構成要素&#34;&gt;構成要素&lt;/h2&gt;
+
+&lt;div&gt;
+    &lt;canvas id=&#34;profileChart&#34; width=&#34;860&#34; height=&#34;400&#34;&gt;&lt;/canvas&gt;
+    
+    &lt;script src=&#34;../../js/chartData.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;../../js/Chart.min.js&#34;&gt;&lt;/script&gt;
+    
+&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/_marony&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/marony0607/&#34;&gt;SoundCloud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/diskreport&#34;&gt;Scalaでディスク容量表示アプリ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/diskreport&#34;&gt;Katamino(カタミノ)解いてる&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/fix-const&#34;&gt;VSCodeのネタ機能拡張作ったり&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/monhanxx&#34;&gt;モンハンXX攻略アプリ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/youtuber&#34;&gt;TensorFlowでFizzBuzz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/raft_test&#34;&gt;ScalaのAKKAでRaftアルゴリズムを試した&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/tf-fizzbuzz&#34;&gt;YouTubeダウンロードサイト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/kuina-sudoku&#34;&gt;くいなちゃんのトランプ数独解法アルゴリズム(Clojure)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/SudokuCS&#34;&gt;C#で数独を解くプログラム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/SudokuFS&#34;&gt;F#で数独を解くプログラム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/Syogaku4&#34;&gt;小学4年生の息子の問題を解く(Scala)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/TenPuzzle&#34;&gt;10パズル(Scala)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/syogi&#34;&gt;アルゴリズム対戦将棋(Clojureのお勉強)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/worker&#34;&gt;社畜.net(ClojureでWebサービス)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/scala3d_wireframe&#34;&gt;Scalaで3D表示してみたり…&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/cpp3d&#34;&gt;C++で3D表示してみたり&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/rust3d&#34;&gt;Rustで3D表示してみたり&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
