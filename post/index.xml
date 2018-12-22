@@ -6,10 +6,19 @@
     <description>Recent content in Posts on undefined</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Dec 2018 13:27:34 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Dec 2018 15:34:50 +0900</lastBuildDate>
     
 	<atom:link href="http://marony.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>書く習慣をつけたい</title>
+      <link>http://marony.github.io/2018/12/22/%E6%9B%B8%E3%81%8F%E7%BF%92%E6%85%A3%E3%82%92%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84/</link>
+      <pubDate>Sat, 22 Dec 2018 15:34:50 +0900</pubDate>
+      
+      <guid>http://marony.github.io/2018/12/22/%E6%9B%B8%E3%81%8F%E7%BF%92%E6%85%A3%E3%82%92%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84/</guid>
+      <description>書く習慣をつけたい 僕はTwitterジャンキーですが、文章を書くことができません。 まず書く内容が決まらないとかいう以前の問題で、書く方法がわ</description>
+    </item>
     
     <item>
       <title>HugoでMermaid.jsを使えるようにした</title>
