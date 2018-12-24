@@ -106,9 +106,13 @@
 
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/_marony&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/_marony&#34;&gt;Twitter&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/_marony?ref_src=twsrc%5Etfw&#34; class=&#34;twitter-follow-button&#34; data-show-count=&#34;false&#34;&gt;Follow @_marony&lt;/a&gt;&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/marony&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/marony0607/&#34;&gt;SoundCloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/marony0607/&#34;&gt;SoundCloud&lt;/a&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/137619535&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;
