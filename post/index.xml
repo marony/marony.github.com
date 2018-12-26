@@ -13,37 +13,37 @@
     
     <item>
       <title>手帳を買いました</title>
-      <link>http://marony.github.io/2018/12/26/%E6%89%8B%E5%B8%B3%E3%82%92%E8%B2%B7%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <link>http://marony.github.io/post/post_20181226091550/</link>
       <pubDate>Wed, 26 Dec 2018 09:15:50 +0900</pubDate>
       
-      <guid>http://marony.github.io/2018/12/26/%E6%89%8B%E5%B8%B3%E3%82%92%E8%B2%B7%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <guid>http://marony.github.io/post/post_20181226091550/</guid>
       <description>手帳を買いました この度、ITエンジニアとしてはどうかと思うものの、時代遅れな手帳を買いました。 昔は手帳を使っていたのですが最近は情報管理(予</description>
     </item>
     
     <item>
       <title>書く習慣をつけたい</title>
-      <link>http://marony.github.io/2018/12/22/%E6%9B%B8%E3%81%8F%E7%BF%92%E6%85%A3%E3%82%92%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84/</link>
+      <link>http://marony.github.io/post/post_20181222153450/</link>
       <pubDate>Sat, 22 Dec 2018 15:34:50 +0900</pubDate>
       
-      <guid>http://marony.github.io/2018/12/22/%E6%9B%B8%E3%81%8F%E7%BF%92%E6%85%A3%E3%82%92%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84/</guid>
+      <guid>http://marony.github.io/post/post_20181222153450/</guid>
       <description>書く習慣をつけたい 僕はTwitterジャンキーですが、文章を書くことができません。 まず書く内容が決まらないとかいう以前の問題で、書く方法がわ</description>
     </item>
     
     <item>
       <title>HugoでMermaid.jsを使えるようにした</title>
-      <link>http://marony.github.io/2018/12/21/hugo%E3%81%A7mermaid.js%E3%82%92%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F/</link>
+      <link>http://marony.github.io/post/post_20181221132734/</link>
       <pubDate>Fri, 21 Dec 2018 13:27:34 +0900</pubDate>
       
-      <guid>http://marony.github.io/2018/12/21/hugo%E3%81%A7mermaid.js%E3%82%92%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F/</guid>
+      <guid>http://marony.github.io/post/post_20181221132734/</guid>
       <description>HugoでMermaid.jsを使えるようにした こう書けば、 ｛｛&amp;lt; mermaid align=&amp;quot;left&amp;quot; &amp;gt;｝｝ graph LR; A[Hard edge] --&amp;gt;|Link text| B(Round edge) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result one] C --&amp;gt;|Two| E[Result two] ｛｛&amp;lt; /mermaid</description>
     </item>
     
     <item>
       <title>プロフィールページを更新</title>
-      <link>http://marony.github.io/2018/12/20/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E6%9B%B4%E6%96%B0/</link>
+      <link>http://marony.github.io/post/post_20181221122922/</link>
       <pubDate>Thu, 20 Dec 2018 10:36:22 +0900</pubDate>
       
-      <guid>http://marony.github.io/2018/12/20/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E6%9B%B4%E6%96%B0/</guid>
+      <guid>http://marony.github.io/post/post_20181221122922/</guid>
       <description>プロフィールページを更新 単なるイメージチェンジです。 心機一転。</description>
     </item>
     
