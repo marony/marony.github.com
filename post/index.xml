@@ -6,10 +6,19 @@
     <description>Recent content in Posts on undefined</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Dec 2018 15:40:39 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 29 Dec 2018 09:18:48 +0900</lastBuildDate>
     
 	<atom:link href="http://marony.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ソフトウェア設計について</title>
+      <link>http://marony.github.io/post/post_20181229091848/</link>
+      <pubDate>Sat, 29 Dec 2018 09:18:48 +0900</pubDate>
+      
+      <guid>http://marony.github.io/post/post_20181229091848/</guid>
+      <description>ソフトウェア設計について 文章練習中ですので連日投下します。 導入 Twitterで「設計ってどうやって勉強するの？」っていうリプを見ました。 確か</description>
+    </item>
     
     <item>
       <title>管理できない人のタスク管理</title>

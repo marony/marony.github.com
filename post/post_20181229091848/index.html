@@ -1,0 +1,403 @@
+  <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <title> ソフトウェア設計について &middot; undefined </title>
+    
+    <link rel="stylesheet" type="text/css" href="http://marony.github.io//css/uno.min.css" />
+    <link rel="stylesheet" type="text/css" href="http://marony.github.io//css/lightGallery.css" />
+    
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    
+    <link href="" rel="alternate" type="application/rss+xml" title="undefined" />
+    
+    <script src="http://marony.github.io//js/jquery.min.js"></script>
+    <script src="http://marony.github.io//js/main.min.js">
+    </script>
+</head>
+
+  <body>
+    <div id="scriptHeader">
+    <span class="mobile btn-mobile-menu">
+            <i class="fa fa-bars btn-mobile-menu__icon"></i>
+            <i class="fa fa-times btn-mobile-close__icon hidden"> </i>
+    </span>
+    <header class="
+        
+            panel-cover panel-cover--collapsed
+        "  style="background-image: url(/images/background-cover.jpg)" >
+        <div class="panel-main">
+            <div class="panel-main__inner panel-inverted">
+                <div class="panel-main__content"> 
+                    <a href="http://marony.github.io//" title="link to homepage for undefined"> <img src="/images/undefined_logo.png" width="80" alt="undefined logo" class="panel-cover__logo logo" /> </a> 
+                    <h1 class="panel-cover__title panel-title">
+                        <a href="http://marony.github.io//"  title="link to homepage for undefined">undefined</a>
+                    </h1>
+                    <hr class="panel-cover__divider" />
+                    <p class="panel-cover__description">  細かいことはおいおいと…  </p>
+                    <hr class="panel-cover__divider panel-cover__divider--secondary" />
+                    <div class="navigation-wrapper">
+                        <nav class="cover-navigation cover-navigation--primary">
+                            <ul class="navigation">
+                                <li class="navigation__item"><a href="http://marony.github.io/#blog" title="link to undefined blog" class="blog-button">Blog</a> </li></br>
+                                <li class="navigation__item"><a href="http://marony.github.io/profile/" title="link to profile" class="profile-button">Profile</a> </li></br>
+                                
+                                
+                           </ul>
+                        </nav> <nav class="cover-navigation navigation--social">
+    <ul class="navigation"> 
+        
+        <li class="navigation__item">
+            <a href="http://twitter.com/_marony" title="@_marony on Twitter"> <i class='fa fa-twitter'></i> <span class="label">Twitter</span> </a>
+        </li>   
+        
+        <li class="navigation__item">
+            <a href="https://github.com/marony" title="marony on github"> <i class='fa fa-github'></i> <span class="label">Github</span> </a>
+        </li>  </br>   
+        
+        <li class="navigation__item">
+            <a href="mailto:marony@binbo-kodakusan.com" title="Email marony@binbo-kodakusan.com"> <i class='fa fa-envelope-o'></i> <span class="label">Email</span> </a>
+        </li>  </ul>
+</nav>
+
+                        
+
+                    </div>
+                </div>
+            </div>
+            <div class="panel-cover--overlay"></div>
+        </div>
+    </header>
+</div>
+<noscript>
+    <style>
+        #scriptHeader {display:none;}
+        .navigation-wrapper{
+            display: block;
+            top: 0;
+        }
+    </style>
+
+    <header class="panel-cover panel-cover--collapsed" style="background-image: url(/images/background-cover.jpg)">
+        <div class="panel-main">
+            <div class="panel-main__inner panel-inverted">
+                <div class="panel-main__content"> 
+                    <a href="http://marony.github.io//" title="link to homepage for undefined"> <img src="/images/undefined_logo.png" width="80" alt="undefined logo" class="panel-cover__logo logo" /> </a> 
+                    <h1 class="panel-cover__title panel-title">
+                        <a href="http://marony.github.io//"  title="link to homepage for undefined">undefined</a>
+                    </h1>
+                    <hr class="panel-cover__divider" />
+                    <p class="panel-cover__description">  This site is built using <a href="http://gohugo.io">hugo</a> and the theme is built by <a href="http://fredrikloch.me">Fredrik</a> if you enjoy it, it is available at <a href="https://github.com/SenjinDarashiva/hugo-uno">github</a>  </p>
+                    <hr class="panel-cover__divider panel-cover__divider--secondary" />
+                    <div class="navigation-wrapper">
+                        <nav class="cover-navigation cover-navigation--primary">
+                            <ul class="navigation">
+                                <li class="navigation__item"><a href="http://marony.github.io//#blog" title="link to undefined blog" class="blog-button">Blog</a> </li></br>
+                                
+                                
+                           </ul>
+                        </nav> <nav class="cover-navigation navigation--social">
+    <ul class="navigation"> 
+        
+        <li class="navigation__item">
+            <a href="http://twitter.com/_marony" title="@_marony on Twitter"> <i class='fa fa-twitter'></i> <span class="label">Twitter</span> </a>
+        </li>   
+        
+        <li class="navigation__item">
+            <a href="https://github.com/marony" title="marony on github"> <i class='fa fa-github'></i> <span class="label">Github</span> </a>
+        </li>  </br>   
+        
+        <li class="navigation__item">
+            <a href="mailto:marony@binbo-kodakusan.com" title="Email marony@binbo-kodakusan.com"> <i class='fa fa-envelope-o'></i> <span class="label">Email</span> </a>
+        </li>  </ul>
+</nav>
+
+                    </div>
+                </div>
+            </div>
+            <div class="panel-cover--overlay"></div>
+        </div>
+    </header>
+</noscript>
+
+    <div class="content-wrapper">
+      <div class="content-wrapper__inner">
+        <div class="post">
+          <span class="post-date">Sat, Dec 29, 2018</span>
+          
+
+<h2 id="ソフトウェア設計について">ソフトウェア設計について</h2>
+
+<p>文章練習中ですので連日投下します。</p>
+
+<h3 id="導入">導入</h3>
+
+<p>Twitterで「設計ってどうやって勉強するの？」っていうリプを見ました。</p>
+
+<p>確かに座学や個人レベルでの開発では設計を学ぶのは難しいと思います。<br />
+設計の書籍はとても抽象的で実感が湧かないですし、ライブラリやフレームワークを組み合わせるだけの開発では「設計」はほとんどしなくていいからです。
+実践で学んできてしまった僕にはどうやって勉強するのかはわかりませんが、僕が何を考えて設計しているのかはわかります。</p>
+
+<p>設計には物理設計(今名付けた)と論理設計(今名付けた)があります。<br />
+僕は用語を覚えるのが不得意なため勝手に名付けましたが正式な名前がきっとあります。</p>
+
+<p>物理設計は、決められた動作をする仕組み(=システム)を考えることです。<br />
+基本的には「どう実現するか」を考えます。</p>
+
+<p>論理設計は、人間がわかりやすいか、改修しやすいか、テストがしやすいか、などを考えます。<br />
+基本的には「どう分割するか」を考えます。</p>
+
+<p>双方はどちらも必要なものですが、システムが実現できてから分割方法が決まると思いますので、最初は物理設計から行います。<br />
+物理設計の概要が決まればその後は並行して論理設計も決めていけると思います。<br />
+(この辺りたぶん異論反論がたくさんある人がいると思います)</p>
+
+<p>今回は物理設計についてです。<br />
+論理設計については近いうちに書きたいですが、こちらは書物やブログも豊富ですので気になる方は読んでみてください。<br />
+オブジェクト指向設計やDDDやClean Architectureなんかはこれです。<br />
+たぶん一般的に「ソフトウェア設計」と呼ばれているものは論理設計です。</p>
+
+<p>さて、僕は抽象的な文章を書くのが得意ではありませんので具体例で説明します。</p>
+
+<p>最初に言っておかなければならないのは、
+使っているプログラミング言語やライブラリ・フレームワーク標準の機能で実現できたり、
+社内標準の方法があるのであれば、
+それを使うのが「一番無難」だと言うことです。</p>
+
+<p>あえてオレオレ設計を作ったりトリッキーなことをして技術的負債を増やすことはありません。<br />
+(Ruby on RailsでJavaのようなサービス層を儲けようとして爆死なんかしてませんよ？)</p>
+
+<h3 id="設計するもの">設計するもの</h3>
+
+<p>あるシステム(もしくはプロセス)で、他のシステム(あるいはプロセス)から受け取ったデータを別の他のシステム(あるいはプロセス)に送るシステム(もしくはプロセス)を考えます。<br />
+なんでこんな書き方になっているかと言うと、
+僕の持論では「システム全体の設計」と「プロセス内部の設計」は粒度が違うだけ
+で考え方は同じだと思っているからです。<br />
+あえて違いを言えば、前者は必要とされる知識が広く、後者は深い、ということでしょうか。</p>
+
+<p>これ以降はだるいので「プロセス」で統一します。</p>
+
+<p>さて、要は「他プロセスから受信したデータを別の他プロセスに送信するプロセス」を設計します。</p>
+
+<h3 id="インターフェース">インターフェース</h3>
+
+<p>まずはどんなプロトコルで受信・送信するのかを決めます。<br />
+これはわりかし誰でも決められるというか、
+相手方が既存プロセスならもう決まってますし、
+即時性が求められないし大量だからファイルでいいねとか、
+リアルタイムだからTCP/IPねとか、
+配る範囲が広範囲だからIPマルチキャストにしようねとか、
+であっさり決まります。</p>
+
+<p>ここでは(今後の話の展開上)TCP/IPでリアルタイムで送受信することに決まったとします。</p>
+
+<h3 id="動く仕組み-1">動く仕組み(1)</h3>
+
+<p>次に「受信したデータを送信する仕組み」について考えます。</p>
+
+<p>ここでは安直に「受信したらそのまま送信する」としましょう。<br />
+受け取ったら送信、受け取ったら送信、シンプルですね。</p>
+
+<h3 id="動く仕組み-2">動く仕組み(2)</h3>
+
+<p>ところが、送信する側のプロセスは秒間最大10000件(最大であって常に10000件ではない)送ってくるのに対し、受信する側のプロセスは秒間1件しか受け取れない、とわかりました。</p>
+
+<p>さぁ大変です。<br />
+今のままだと、秒間最大10000件送りつけられてしまう受信側のプロセスが受けきれません。<br />
+このプロセスの送信が延々と待たされるか、受信側のプロセスで何かトラブルが起きるかです。<br />
+さらにこちらの送信が待たされればこちらに送信してきている側のプロセスにも影響が及びます。<br />
+これでは全然ダメですね。</p>
+
+<h3 id="動く仕組み-3">動く仕組み(3)</h3>
+
+<p>別の案を考えましょう。</p>
+
+<p>素直に考えると「受信側のペースで送信すればいいのでは？」と考えますよね。<br />
+「受信側のペースで送信する」にはどうしたらいいでしょうか？</p>
+
+<p>ひとつ考えられるのは「送信側プロセスから秒間10000件送られてきても(ウェイトを入れて)秒間1件しか受信しない(=受信側のプロセスに秒間1件しかか送信しない)」です。<br />
+でもこれはすぐにダメなことがわかります。<br />
+先ほどと同様に秒間10000件送る側のプロセスがに影響(待たされる)が出てしまいます。
+それが他ベンダだったりすると怒られが発生します。</p>
+
+<h3 id="動く仕組み-4">動く仕組み(4)</h3>
+
+<p>もうひとつ考えられるのは「データを貯めておく」です。</p>
+
+<p>秒間10000件受信したものは一度貯めておき、ゆっくりと秒間1件送信すればいいのです。<br />
+貯めておく方法には色々ありますが、一番簡単なメモリ内のキューを使ってみます。<br />
+プログラミング言語のライブラリにそのものが用意されているかも知れませんし、リストなどのコレクションを用いて自分で作らないといけないかも知れません。</p>
+
+<p>送信側プロセスから受信したデータをぽんぽんキューに投げ込んで、受信側プロセスに送信する側はそれを1秒間に一回取り出して送ります。</p>
+
+<p>これは別スレッドなり非同期IOを用いないと実現できませんがここでは触れません。</p>
+
+<p>(スレッドやトランザクションについては個人的に大好きなので改めて何か書きたいですね)</p>
+
+<p>これで基本的な動きは大丈夫そうです。</p>
+
+<h3 id="完成">完成？</h3>
+
+<p>本当に？<br />
+パフォーマンスは？<br />
+メモリ使用量は？<br />
+CPU使用率は？</p>
+
+<p>送信側は「最大」とは言え、延々と数時間秒間10000件送りつけてくるとするならばメモリ使用量が心配ですね。<br />
+実際の動作環境でどのくらいメモリを使えるかを調べて秒間10000件を最大どのくらい受け続けても大丈夫かを計算しましょう。<br />
+同時に送信側プロセスの作成者(もしくは社)に秒間10000件の状態が最大どのくらいの時間続くのか問い合わせましょう。</p>
+
+<p>それでメモリ使用量がヤバそうなら、メモリ内のキューじゃくてミドルウェアのMQを使用しましょうか。<br />
+MQを使うのが面倒ならば泥臭くデータベースを使いますか(使いたくないけど)。<br />
+それらを使うにしても今度はストレージの容量を見積もる必要があります。</p>
+
+<p>この仕組みで本当に動くのかパイロット(僕の場合、エラー処理とかUIを端折って最低限動くようにしたもの)を作ってみましょう。パフォーマンスや各種リソースの利用量は大丈夫ですか？</p>
+
+<h3 id="再確認">再確認</h3>
+
+<p>でも、ちょっと待ってください。</p>
+
+<p>受信側プロセスは本当に全てのデータが必要なのでしょうか？<br />
+送信側プロセスから秒間10000件送られてきたとしても、受信側プロセスは1秒おきの(間引かれた)最新データのみが欲しいのではないでしょうか？<br />
+これは受信側プロセスの作成者(もしくは社)に聞いてみないとわかりません。</p>
+
+<h3 id="動く仕組み-5">動く仕組み(5)</h3>
+
+<p>結果その解釈(間引かれたデータ)で良かったとします。</p>
+
+<p>では「秒間最大10000件受信したデータの1秒おきの最新データを送信する」にはどうしたらいいでしょうか？<br />
+送信する側プロセスが送ってきたデータを前回の受信から1秒間経つまでは捨てて、1秒以上経ってから受信したデータだけを受信する側プロセスに送信するのはどうでしょう？</p>
+
+<p>送信する側プロセスが常に秒間10000件送ってきてくれればうまくいきそうです。<br />
+でも、秒間10000件はあくまで「最大」ですので5秒おきにしか送ってこない時間帯もあります。<br />
+そして1秒経つ前(0.5秒とか)に送信が止まってしまったら？<br />
+最新のデータを送信することができなくなってしまいますね。</p>
+
+<p>ここで1秒過ぎてもデータを受信しなかったら、直前に受信したデータを送るという仕組みも考えられますが、やりたいことに対して複雑すぎます。</p>
+
+<h3 id="動く仕組み-6">動く仕組み(6)</h3>
+
+<p>改めて考え直します。</p>
+
+<p>秒間10000件受信しようが1秒経つまでのデータは捨ててしまって良いのだから、キューなんていらなかったのです。<br />
+単純に送信側プロセスから受信したデータを変数に上書きしてしまいましょう。<br />
+1秒おきにその変数のデータを見に行って受信側プロセスに送信すればできあがりです。</p>
+
+<p>実際にはこのままだと受信してない時には最後のデータを1秒おきに送り続けてしまうので、受信したかのフラグを持つなど工夫が必要です。<br />
+また、別スレッドで同じ変数を読み書きすることになるのでスレッド間の同期処理も必要になります。</p>
+
+<p>これでなんとなく動く仕組みにはなったと思います。</p>
+
+<h3 id="耐障害性">耐障害性</h3>
+
+<p>ただこれだけではダメです。<br />
+このプロセスが落ちた時にシステム全体が止まるようではダメです。</p>
+
+<p>2台を常時稼働させるようにしましょう。<br />
+送信側プロセスには1台で2台に送信してもらうか、2台稼働してもらってそれぞれに送信してもらいましょう。<br />
+受信側プロセスは2台から同じデータを重複して受信することになるので、
+データに一意な通番を用意して同じデータは弾いてもらうようにしましょう。</p>
+
+<p>受信側プロセスが落ちても同様です。<br />
+システム全体を止めるわけにはいきません。</p>
+
+<p>2台同時稼働してもらってもいいですが、今回は1台死んだらもう1台に切り替わる、としましょう。</p>
+
+<p>そうすると、受信側プロセスと一度切断してももう一度接続しにいく仕組みが必要になります。<br />
+また、永遠に再接続ループしたら大変なのでその上限値を設けたり、受信側プロセスがメンテナンスなどで止まる時間帯が週に1度あるならばその時間帯は再接続しないなどの仕組みも必要になります。<br />
+切断前にどこまで送ったかの管理をして再送できるような仕組みも必要かも知れません。</p>
+
+<h3 id="パフォーマンス">パフォーマンス</h3>
+
+<p>このプロセスは実際の稼働に耐えられるでしょうか？</p>
+
+<p>どのくらいまでなら耐えられるのかパイロットを作ってパフォーマンスを様々な条件で測っておきましょう。</p>
+
+<p>このプロセスはユーザ数やデータ数の増加によって負荷が上がるでしょうか？<br />
+もしそうならば同時に何台もデータを分散して稼働できるような仕組みも作る必要があります。</p>
+
+<h3 id="運用を考える">運用を考える</h3>
+
+<p>エラー時のログはどんな時にどんなものを出しましょうか？<br />
+些細なことでエラーログを吐くと監視している人が24時間不眠になります。<br />
+監視システムがパンクするかも知れません。</p>
+
+<p>エラーコードやメッセージはシステム全体で統一した方がいいですよね。</p>
+
+<p>このプロセスには定期的なメンテナンスジョブ(初期化やデータのクリアなど)は必要ないでしょうか？<br />
+起動ジョブ・停止ジョブは何曜日の何時に仕込みましょうか？<br />
+その時間に止まっても受信側プロセス・送信側プロセスはエラーになりませんか？<br />
+その日が休日だった場合の動きはどうなりますか？</p>
+
+<h3 id="終わり">終わり</h3>
+
+<p>だいたいこんなことを考えながら設計を行っています。</p>
+
+<p>これをシステム全体に渡って個々のプロセスに至るまで延々と行います。<br />
+何をどのように考えて何をしてるのかが伝わったでしょうか？</p>
+
+<p>まぁ、書いているうちに僕の捉える「設計」が一般的な「設計」の意味とずれている気がしてきたんですがどうなんでしょ。<br />
+ぶっちゃけ、各種設計とアーキテクチャの違いもわかってないですしね。</p>
+
+<p>※ 絵を入れてみようと思っていたのですが面倒でやめました…<br />
+※ 要望があればこのサイトではMermaid.jsが使えるようになっているので描きます。</p>
+
+        </div>
+        <div class="sharing">
+<a href="https://twitter.com/intent/tweet?status=%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e8%a8%ad%e8%a8%88%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-http%3a%2f%2fmarony.github.io%2fpost%2fpost_20181229091848%2f" target="_blank" title="Follow me on Twitter" class="twitter">
+<span class="fa fa-twitter-square fa-3x"></span></a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20181229091848%2f" target="_blank" title="Join me on Facebook" class="facebook">
+<span class="fa fa-facebook-square fa-3x"></span></a>
+<a href="https://plus.google.com/share?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20181229091848%2f" target="_blank" title="Google+" class="googleplus">
+<span class="fa fa-google-plus-square fa-3x"></span></a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20181229091848%2f&title=%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e8%a8%ad%e8%a8%88%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6" target="_blank" title="LinkedIn" class="linkedin">
+<span class="fa fa-linkedin-square fa-3x"></span></a>
+<a href="http://www.reddit.com/submit?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20181229091848%2f" target="_blank" title="Reddit" class="reddit"><span class="fa fa-reddit-square fa-3x"></span></a>
+<a href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20181229091848%2f" target="_blank" title="StumbleUpon" class="stumbleupon"><span class="fa fa-stumbleupon fa-3x">
+</span></a>
+</div>
+        
+
+
+<div id="disqus_thread"></div>
+
+<script type="text/javascript">
+  var disqusUsername = "marony-untitled";
+
+  (function() { 
+  var d = document, s = d.createElement('script');
+
+  s.src = '//' + disqusUsername + '.disqus.com/embed.js';
+
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+      </div>
+    </div>
+
+  </body>
+  <link href="/mermaid/mermaid.css?1546046867" type="text/css" rel="stylesheet" />
+<script src="/mermaid/mermaid.js?1546046867"></script>
+<script>
+    mermaid.initialize({ startOnLoad: true });
+</script>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-26291525-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+</html>
