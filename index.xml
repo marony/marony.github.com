@@ -7,7 +7,74 @@
     <language>ja</language>
     
     
-    <updated>Fri, 04 Jan 2019 01:14:09 JST</updated>
+    <updated>Sat, 05 Jan 2019 09:29:42 JST</updated>
+    
+    <item>
+      <title>profile</title>
+      <link>http://marony.github.io/profile/</link>
+      <pubDate>Sat, 05 Jan 2019 09:29:42 JST</pubDate>
+      
+      <guid>http://marony.github.io/profile/</guid>
+      <description>
+
+&lt;h2 id=&#34;人種&#34;&gt;人種&lt;/h2&gt;
+
+&lt;p&gt;C#プログラマ@東京&lt;/p&gt;
+
+&lt;h2 id=&#34;構成要素&#34;&gt;構成要素&lt;/h2&gt;
+
+&lt;div&gt;
+    &lt;canvas id=&#34;profileChart&#34; width=&#34;860&#34; height=&#34;400&#34;&gt;&lt;/canvas&gt;
+    
+    &lt;script src=&#34;../../js/chartData.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;../../js/Chart.min.js&#34;&gt;&lt;/script&gt;
+    
+&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://amzn.asia/9FISHMC&#34;&gt;欲しい物リスト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/_marony&#34;&gt;Twitter&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/_marony?ref_src=twsrc%5Etfw&#34; class=&#34;twitter-follow-button&#34; data-show-count=&#34;false&#34;&gt;Follow @_marony&lt;/a&gt;&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/marony0607/&#34;&gt;SoundCloud&lt;/a&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/127523460&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/137619535&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;githubリポジトリ&#34;&gt;GitHubリポジトリ&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/pi_js&#34;&gt;JavaScriptでPIを計算するよ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marony.github.io/lifegame_pde/&#34;&gt;processingでライフゲーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/diskreport&#34;&gt;Scalaでディスク容量表示アプリ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/katamino-solver&#34;&gt;Katamino(カタミノ)解いてる&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/fix-const&#34;&gt;VSCodeのネタ機能拡張作ったり&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/monhanxx&#34;&gt;モンハンXX攻略アプリ(Ruby + Python(Django))&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/tf-fizzbuzz&#34;&gt;TensorFlowでFizzBuzz(Python)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/raft_test&#34;&gt;ScalaのAKKAでRaftアルゴリズムを試した&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/youtuber&#34;&gt;YouTubeダウンロードサイト(Scala)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/kuina-sudoku&#34;&gt;くいなちゃんのトランプ数独解法アルゴリズム(Clojure)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/SudokuCS&#34;&gt;C#で数独を解くプログラム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/SudokuFS&#34;&gt;F#で数独を解くプログラム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/Syogaku4&#34;&gt;小学4年生の息子の問題を解く(Scala)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/TenPuzzle&#34;&gt;10パズル(Scala)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/syogi&#34;&gt;アルゴリズム対戦将棋(Clojureのお勉強)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/worker&#34;&gt;社畜.net(ClojureでWebサービス)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/scala3d_wireframe&#34;&gt;Scalaで3D表示してみたり…&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/cpp3d&#34;&gt;C++で3D表示してみたり&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/rust3d&#34;&gt;Rustで3D表示してみたり&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/1464560511355.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/IMG_20160922_172626.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/P_20180116_200111_vHDR_On.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>人間と他の生物</title>
@@ -666,66 +733,6 @@ ITエンジニアですので仕事では設計したりプログラミングし
 
 &lt;p&gt;単なるイメージチェンジです。
 心機一転。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>profile</title>
-      <link>http://marony.github.io/profile/</link>
-      <pubDate>Thu, 20 Dec 2018 09:29:42 JST</pubDate>
-      
-      <guid>http://marony.github.io/profile/</guid>
-      <description>
-
-&lt;h2 id=&#34;人種&#34;&gt;人種&lt;/h2&gt;
-
-&lt;p&gt;C#プログラマ@東京&lt;/p&gt;
-
-&lt;h2 id=&#34;構成要素&#34;&gt;構成要素&lt;/h2&gt;
-
-&lt;div&gt;
-    &lt;canvas id=&#34;profileChart&#34; width=&#34;860&#34; height=&#34;400&#34;&gt;&lt;/canvas&gt;
-    
-    &lt;script src=&#34;../../js/chartData.js&#34;&gt;&lt;/script&gt;
-    &lt;script src=&#34;../../js/Chart.min.js&#34;&gt;&lt;/script&gt;
-    
-&lt;/div&gt;
-
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://amzn.asia/9FISHMC&#34;&gt;欲しい物リスト&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/_marony&#34;&gt;Twitter&lt;/a&gt;
-&lt;a href=&#34;https://twitter.com/_marony?ref_src=twsrc%5Etfw&#34; class=&#34;twitter-follow-button&#34; data-show-count=&#34;false&#34;&gt;Follow @_marony&lt;/a&gt;&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/marony0607/&#34;&gt;SoundCloud&lt;/a&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/127523460&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/137619535&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;githubリポジトリ&#34;&gt;GitHubリポジトリ&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://marony.github.io/lifegame_pde/&#34;&gt;processingでライフゲーム&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/diskreport&#34;&gt;Scalaでディスク容量表示アプリ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/katamino-solver&#34;&gt;Katamino(カタミノ)解いてる&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/fix-const&#34;&gt;VSCodeのネタ機能拡張作ったり&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/monhanxx&#34;&gt;モンハンXX攻略アプリ(Ruby + Python(Django))&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/tf-fizzbuzz&#34;&gt;TensorFlowでFizzBuzz(Python)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/raft_test&#34;&gt;ScalaのAKKAでRaftアルゴリズムを試した&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/youtuber&#34;&gt;YouTubeダウンロードサイト(Scala)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/kuina-sudoku&#34;&gt;くいなちゃんのトランプ数独解法アルゴリズム(Clojure)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/SudokuCS&#34;&gt;C#で数独を解くプログラム&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/SudokuFS&#34;&gt;F#で数独を解くプログラム&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/Syogaku4&#34;&gt;小学4年生の息子の問題を解く(Scala)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/TenPuzzle&#34;&gt;10パズル(Scala)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/syogi&#34;&gt;アルゴリズム対戦将棋(Clojureのお勉強)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/worker&#34;&gt;社畜.net(ClojureでWebサービス)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/scala3d_wireframe&#34;&gt;Scalaで3D表示してみたり…&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/cpp3d&#34;&gt;C++で3D表示してみたり&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/rust3d&#34;&gt;Rustで3D表示してみたり&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
