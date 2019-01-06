@@ -7,7 +7,55 @@
     <language>ja</language>
     
     
-    <updated>Sat, 05 Jan 2019 09:29:42 JST</updated>
+    <updated>Mon, 07 Jan 2019 00:00:00 JST</updated>
+    
+    <item>
+      <title>子供たちのプログラミング(Scratch作品)</title>
+      <link>http://marony.github.io/post/post_20190106024143/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 JST</pubDate>
+      
+      <guid>http://marony.github.io/post/post_20190106024143/</guid>
+      <description>
+
+&lt;h2 id=&#34;子供たちのプログラミング-scratch作品&#34;&gt;子供たちのプログラミング(Scratch作品)&lt;/h2&gt;
+
+&lt;p&gt;僕がプログラマなこともあり、
+うちの子供たちは小学校低学年くらいからプログラミングをしています。&lt;/p&gt;
+
+&lt;p&gt;子供たちには専用のパソコンを用意(動作がたまに遅いので「カチコチのパソコン」と呼ばれています)してScratchというプログラミング環境があることを教えました。&lt;br /&gt;
+それ以来、プログラミングのことはほぼ何も教えていないのですが、色々と作っているようです。&lt;/p&gt;
+
+&lt;p&gt;僕も子供たちが何を作っているのかはあまりチェックできていないのですが、
+面白そうなのを紹介してみます。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/196521799/&#34;&gt;MIYABI　錦鯉　～三色～ on Scratch&lt;/a&gt;&lt;br /&gt;
+これ、マウスに鯉がついてくるんですが、鯉が数十枚の絵からなっていてなんと「手書き」なんですね。&lt;br /&gt;
+長男の集中力すごすぎです。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/66020310/&#34;&gt;最小公倍数 on Scratch&lt;/a&gt;&lt;br /&gt;
+これ、次男が小学校の宿題をやるために作ったやつですね…&lt;br /&gt;
+真面目に宿題やってください&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/170040528/&#34;&gt;十進数と二進数 変換 on Scratch&lt;/a&gt;&lt;br /&gt;
+算数大好き次男。&lt;br /&gt;
+こういうの好きですね。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/49476226/&#34;&gt;忍者ダッシュ！ on Scratch&lt;/a&gt;&lt;br /&gt;
+長男は絵を描くのがうまいなぁ&lt;/p&gt;
+
+&lt;p&gt;全部の作品はこのリンクから。&lt;br /&gt;
+&lt;a href=&#34;https://scratch.mit.edu/users/marony/&#34;&gt;marony on Scratch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Scratchはブロックを組み合わせてプログラミングするので、子供向けと思われてしまうのですが、プログラミング自体の機能が劣っているとかは特にないです。&lt;br /&gt;
+同じ環境で絵や音も作れたり、質問もできる掲示板があったりと、プログラミング教育には最適だと思っています。&lt;/p&gt;
+
+&lt;p&gt;ただ、よくできた環境だけに、学校でパソコン部に入ってゲームを作ったり、オススメはしないけど将来プログラマになったりすると出会うことになる「普通のプログラミング言語」とは全然違います。&lt;br /&gt;
+そのため、今は開発環境を整え、テキストエディタやIDEでコードを書き、絵や音は専用の別ツールで作り、質問はどこか適切な場所を探さなければならない「普通のプログラミング言語」をどうやって子供たちに教えればいいのかで悩んでいます。&lt;/p&gt;
+
+&lt;p&gt;子供たちはアルゴリズムを考えたりはもう問題ないのですが、やっぱり「普通のプログラミング言語」を経験させたい。&lt;br /&gt;
+贅沢な悩みですし、好きでやってれば勝手に覚えるのかも知れませんけれど。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>profile</title>
