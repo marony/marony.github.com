@@ -7,7 +7,60 @@
     <language>ja</language>
     
     
-    <updated>Fri, 11 Jan 2019 06:50:24 JST</updated>
+    <updated>Tue, 15 Jan 2019 22:19:15 JST</updated>
+    
+    <item>
+      <title>発達障害の人は人より遅く成長する</title>
+      <link>http://marony.github.io/post/post_20190115221915/</link>
+      <pubDate>Tue, 15 Jan 2019 22:19:15 JST</pubDate>
+      
+      <guid>http://marony.github.io/post/post_20190115221915/</guid>
+      <description>
+
+&lt;h2 id=&#34;発達障害の人は人より遅く成長する&#34;&gt;発達障害の人は人より遅く成長する&lt;/h2&gt;
+
+&lt;p&gt;僕は過去にASD(アスペ)と診断されました。&lt;br /&gt;
+また、自己判断ですがADHDもそこそこありそうだと思っています。&lt;/p&gt;
+
+&lt;p&gt;借金玉という人の「発達障害の僕が「食える人」に変わった すごい仕事術」という本の内容と(なぜか)かなり被るのですが、
+若い頃は記憶力が悪いのをアインシュタインと同じだと喜んでいましたし、
+30歳までに絶対に死ぬと思いこんでいました。&lt;br /&gt;
+もちろん根拠なんてありませんでした。&lt;/p&gt;
+
+&lt;p&gt;そんな僕ですが、今では40歳を超えてしまいました。&lt;br /&gt;
+結婚もして3人の子供もいます。
+とりあえず普通の人並みの衣食住をしています。&lt;br /&gt;
+小学生から始めたプログラミングでASDお得意の過集中を武器にお仕事をしています。&lt;/p&gt;
+
+&lt;p&gt;ここ最近はコミュ力こそ相変わらず不足しているものの、奇妙な行動や思考はかなり減ったと思っています。&lt;br /&gt;
+(若い頃の奇妙な行動や思考については酷すぎて忘れてないと死にたくなるので書けません)&lt;/p&gt;
+
+&lt;p&gt;それもこれもよくよく考えてみれば「自分以外に人間がいると気がついたから」なんです。&lt;br /&gt;
+これ、わかるでしょうか？&lt;br /&gt;
+わからないですよね、普通の人はおそらく幼児期に習得するのだと思います。&lt;/p&gt;
+
+&lt;p&gt;自分以外に人がいることは認識していますし、
+世界中に人間がたくさんいることも知識として知っています。&lt;br /&gt;
+ところが、他の人が自分と同じように「自身で考え自律的に動く」ということを実感としてわかっていませんでした。&lt;/p&gt;
+
+&lt;p&gt;30歳を過ぎてからめきめきこの感覚が身につきました。&lt;br /&gt;
+結婚して子供ができたからかも知れません。&lt;br /&gt;
+とても人間的で野性的な妻と長く一緒にいたからかも知れません。&lt;/p&gt;
+
+&lt;p&gt;人を人と認識すると、愛や友情というもの、コネや仲間というもの、チームや組織というもの、僕は相変わらず好きでも得意でもありませんが、そういうものが理解できました。&lt;br /&gt;
+また、世界には競争相手がたくさんいて、自分はたいした人間ではないのだから勉強をし続けなければならないとわかりました。&lt;/p&gt;
+
+&lt;p&gt;他の人より(かなり)遅く心と脳の成長が始まりました。&lt;br /&gt;
+嫌いなことにも価値を見いだせるようになりました。&lt;br /&gt;
+僕には18歳からの大学生は早すぎたんだと思います。&lt;br /&gt;
+大学受験が30歳ならば、まともに勉強してまともに卒業していた気がします。&lt;/p&gt;
+
+&lt;p&gt;人より遅く成長が始まった分まだまだ成長します。&lt;br /&gt;
+その前に身体的な劣化(≒老化)が進んでしまいますが…&lt;br /&gt;
+もちろん症状やレベルは人それぞれなので当てはまらない人もいると思います。&lt;br /&gt;
+でも僕はこれを信じていますし、信じているからこそ勉強を続けたいと思っています。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>老いると言うこと</title>
@@ -959,42 +1012,6 @@ ITエンジニアですので仕事では設計したりプログラミングし
 &lt;p&gt;この程度の短文ならばもちろん今現在書いているので書けるのだけれど…&lt;/p&gt;
 
 &lt;p&gt;ひとまずこのままではマズいと思うのでなんでもいいから文章を書いていく。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HugoでMermaid.jsを使えるようにした</title>
-      <link>http://marony.github.io/post/post_20181221132734/</link>
-      <pubDate>Fri, 21 Dec 2018 13:27:34 JST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20181221132734/</guid>
-      <description>
-
-&lt;h2 id=&#34;hugoでmermaid-jsを使えるようにした&#34;&gt;HugoでMermaid.jsを使えるようにした&lt;/h2&gt;
-
-&lt;p&gt;こう書けば、&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;｛｛&amp;lt; mermaid align=&amp;quot;left&amp;quot; &amp;gt;｝｝
-  graph LR;
-  A[Hard edge] --&amp;gt;|Link text| B(Round edge)
-  B --&amp;gt; C{Decision}
-  C --&amp;gt;|One| D[Result one]
-  C --&amp;gt;|Two| E[Result two]
-｛｛&amp;lt; /mermaid &amp;gt;｝｝
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;こうなる。&lt;/p&gt;
-
-&lt;div class=&#34;mermaid&#34; align=&#34;left&#34;&gt;
-  graph LR;
-  A[Hard edge] --&gt;|Link text| B(Round edge)
-  B --&gt; C{Decision}
-  C --&gt;|One| D[Result one]
-  C --&gt;|Two| E[Result two]
-&lt;/div&gt;
-
-
-&lt;p&gt;※ コードブロックでエラーが出るので安直に半角の&amp;rsquo;{&amp;lsquo;, &amp;lsquo;}&amp;lsquo;を全角の&amp;rsquo;｛&amp;rsquo;, &amp;lsquo;｝&amp;rsquo;に置換して回避してます…&lt;/p&gt;
 </description>
     </item>
     
