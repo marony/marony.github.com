@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <title> 人間と他の生物 &middot; undefined </title>
+    <title> IDEやエディタに求める機能 &middot; undefined </title>
     
     <link rel="stylesheet" type="text/css" href="http://marony.github.io//css/uno.min.css" />
     <link rel="stylesheet" type="text/css" href="http://marony.github.io//css/lightGallery.css" />
@@ -126,55 +126,71 @@
     <div class="content-wrapper">
       <div class="content-wrapper__inner">
         <div class="post">
-          <span class="post-date">Fri, Jan 4, 2019</span>
+          <span class="post-date">Fri, Feb 15, 2019</span>
           
 
-<h2 id="人間と他の生物">人間と他の生物</h2>
+<h2 id="ideやエディタに求める機能">IDEやエディタに求める機能</h2>
 
-<p>明確に違うと言うことはない(基準を示せと言われると困る)けれど、
-人間が他の生物と決定的に違うところは
-他の生物は得すると損するの二択なのに対し、
-人間は今は損して将来得する、自分が損しても相手に損害を与えたいなど、他の選択肢をたくさん選べることだと思う。</p>
+<p>プログラミングをする際に必ずお世話になるのがIDEやエディタです。<br />
+IDE(VisualStudioやIntelliJ IDEAなど)もエディタ(VSCode, ATOM, vim, Emacs)なども、様々なプログラミング言語で文法による色分け表示や定義にジャンプできるのは当たり前です。<br />
+IDEであれば、リファクタリングの補助やパフォーマンス解析やデータベース管理、ソース管理との統合などの含まれていますが、
+ここでは、その他に僕が欲しい機能を列挙します。</p>
 
-<p>感情的になると思考する暇がなく他の生物と同じ行動を取る。<br />
-一方、自分で懸命に考えた末の行動だと、例え結果が失敗だとしても後悔しにくい。<br />
-あとから考えて仕方なかったなと思える。</p>
+<h3 id="コードに付箋を貼り付けたい">コードに付箋を貼り付けたい</h3>
 
-<p>何気ない行動ひとつひとつひとつについて、
-一歩でもいいから立ち止まって
-何か考えてから行動したい。</p>
+<p>エディタで表示されているコードのある部分に対して、矢印を引っ張った付箋を貼り付け「この部分はXXXなので注意」「この部分の仕様」などなど付箋を貼りたいです。<br />
+コメントよりもわかりやすくなるのではないかと思います。<br />
+これらのデータを保存するために、コメント部分を活用するのか別にソースファイルと対になるデータファイルを管理するかなど、実装方法は工夫する必要がありますが、ぜひ欲しいです。</p>
 
-<p>ただし、これが老害化でもあると思う。<br />
-思考し行動することが習慣になり、自分の中で常識となってしまう。<br />
-その常識と異なった行動を誤っていると勘違いしてしまう。</p>
+<h3 id="コードに図形を書きたい">コードに図形を書きたい</h3>
 
-<p>また、
-良いことと悪いこと、
-考えれば考えるほどに、
-良いことにもデメリット
-悪いことにはメリットがあることに気がつく。
-良い方にも舵を切れず、かと言って悪い方にも舵を切れない。<br />
-自分の行動が思考に束縛される。</p>
+<p>コードを書くテキストエディタとPlantUMLやMermaidと統合されて自由に図形を描きたいです。<br />
+常に表示されていたらそれはそれでウザそうなので、カーソルを合わせたらポップアップするようなのがいいでしょうか。<br />
+(Mermaidでもまだ図形描画という点では弱いので本当はVISIOなんかが貼り付けられればいいのですがそれは高望みしすぎだと思います。)</p>
 
-<p>これが賢明(≒老害)な大人。</p>
+<h3 id="コードを自由に色分けしたい">コードを自由に色分けしたい</h3>
 
-<p>若い頃のように何も考えないからこそ為せたこと、たくさんあるはず。<br />
-かと言って一生何も考えないのも考えもの。</p>
+<p>今でもプログラミング言語の文法に応じて自動で色分けされますが、それに上書きする形で自分で色を変えたり下線を引いたりしたいです。<br />
+上の2つと同じようなものですね。</p>
 
-<p>まだまだ生きなければいけないのに、目の前の選択肢ひとつ選べない。</p>
+<h3 id="演算子の優先順位を視覚的にわかるようにして欲しい">演算子の優先順位を視覚的にわかるようにして欲しい</h3>
+
+<p>様々なプログラミング言語でだいたい同じですが演算子の優先順位はすぐに忘れてしまいます。<br />
+僕の場合は記憶が曖昧な部分は括弧を多用しますが、コードが冗長になってしまいます。<br />
+目で見て優先順位が判断できれば便利だと思います。<br />
+入れ子になった色分けや枠で囲うなどどう表示すればわかりやすいのかあまり考えていませんが、演算子の優先順位を視覚的に知りたいです。</p>
+
+<h3 id="コンパイルエラー発生時の途中経過が知りたい">コンパイルエラー発生時の途中経過が知りたい</h3>
+
+<p>新しいコンパイラ(clangやrustcなど)は、コンパイルエラーが発生した時のメッセージがかなりわかりやすくなりそれだけでも大助かりです。<br />
+ただ、それでもエラー発生箇所がわかりにくい場合が多々あります。<br />
+そこで、構文エラーや型エラーの際にコンパイラがどう解析してエラーになったのかがわかるように、そこまでの途中経過の構文解析木のようなものを表示して欲しいです。</p>
+
+<h3 id="実行結果を表示して欲しい">実行結果を表示して欲しい</h3>
+
+<p>大規模なソフトウェアになると自動テストやステージング環境でのテストではどうしても本番環境での動作を再現できないことが増えてきます。<br />
+他社ベンダのソフトウェアとたくさん連携したり、社内の環境で再現するのは不可能なほどの負荷がかかったり、あらかじめ自動で生成するのが難しい複雑なパターンのデータが発生したり…</p>
+
+<p>仕事の話になりますが、最近では仕様やコードの誤りによる障害というのはほぼ発生しなくて、本番環境でのみ発生する負荷や他社ソフトウェアからの要求、ある国が休日だった…などなど、環境による障害が多いです。<br />
+「うぉ！本番だとこんなことが起きるの！？」の連続です。</p>
+
+<p>その解消に役に立つと思っているのですが、本番環境などで実際に動かした際の情報を記録し、コード上に引数のパターンや呼び出し回数などを表示してほしいです。<br />
+実際には数千万、数億回呼ばれるわけなので、何をどう記録してどう表示するんだという難問ではあります。</p>
+
+<p>以上、言い出しっぺの法則が適用されないただのメモです。</p>
 
         </div>
         <div class="sharing">
-<a href="https://twitter.com/intent/tweet?status=%e4%ba%ba%e9%96%93%e3%81%a8%e4%bb%96%e3%81%ae%e7%94%9f%e7%89%a9-http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190104011409%2f" target="_blank" title="Follow me on Twitter" class="twitter">
+<a href="https://twitter.com/intent/tweet?status=IDE%e3%82%84%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%81%ab%e6%b1%82%e3%82%81%e3%82%8b%e6%a9%9f%e8%83%bd-http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190215090437%2f" target="_blank" title="Follow me on Twitter" class="twitter">
 <span class="fa fa-twitter-square fa-3x"></span></a>
-<a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190104011409%2f" target="_blank" title="Join me on Facebook" class="facebook">
+<a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190215090437%2f" target="_blank" title="Join me on Facebook" class="facebook">
 <span class="fa fa-facebook-square fa-3x"></span></a>
-<a href="https://plus.google.com/share?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190104011409%2f" target="_blank" title="Google+" class="googleplus">
+<a href="https://plus.google.com/share?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190215090437%2f" target="_blank" title="Google+" class="googleplus">
 <span class="fa fa-google-plus-square fa-3x"></span></a>
-<a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190104011409%2f&title=%e4%ba%ba%e9%96%93%e3%81%a8%e4%bb%96%e3%81%ae%e7%94%9f%e7%89%a9" target="_blank" title="LinkedIn" class="linkedin">
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190215090437%2f&title=IDE%e3%82%84%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%81%ab%e6%b1%82%e3%82%81%e3%82%8b%e6%a9%9f%e8%83%bd" target="_blank" title="LinkedIn" class="linkedin">
 <span class="fa fa-linkedin-square fa-3x"></span></a>
-<a href="http://www.reddit.com/submit?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190104011409%2f" target="_blank" title="Reddit" class="reddit"><span class="fa fa-reddit-square fa-3x"></span></a>
-<a href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190104011409%2f" target="_blank" title="StumbleUpon" class="stumbleupon"><span class="fa fa-stumbleupon fa-3x">
+<a href="http://www.reddit.com/submit?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190215090437%2f" target="_blank" title="Reddit" class="reddit"><span class="fa fa-reddit-square fa-3x"></span></a>
+<a href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190215090437%2f" target="_blank" title="StumbleUpon" class="stumbleupon"><span class="fa fa-stumbleupon fa-3x">
 </span></a>
 </div>
         
