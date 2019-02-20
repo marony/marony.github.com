@@ -19,7 +19,7 @@
 
 &lt;h2 id=&#34;c-でハマった&#34;&gt;C#でハマった&lt;/h2&gt;
 
-&lt;p&gt;最近久しぶりにC#でハマったので備忘録です。
+&lt;p&gt;最近久しぶりにC#でハマったので備忘録です。&lt;br /&gt;
 lock中で要素を列挙したかったのですが、ロックの外での列挙になってしまい&lt;code&gt;System.InvalidOperationException: コレクションが変更されました。列挙操作は実行されない可能性があります。&lt;/code&gt;が発生してしまっていました。&lt;/p&gt;
 
 &lt;p&gt;簡易的なコードは下記&lt;/p&gt;
