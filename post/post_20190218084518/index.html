@@ -1,0 +1,470 @@
+  <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <title> C#でハマった &middot; undefined </title>
+    
+    <link rel="stylesheet" type="text/css" href="http://marony.github.io//css/uno.min.css" />
+    <link rel="stylesheet" type="text/css" href="http://marony.github.io//css/lightGallery.css" />
+    
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    
+    <link href="" rel="alternate" type="application/rss+xml" title="undefined" />
+    
+    <script src="http://marony.github.io//js/jquery.min.js"></script>
+    <script src="http://marony.github.io//js/main.min.js">
+    </script>
+</head>
+
+  <body>
+    <div id="scriptHeader">
+    <span class="mobile btn-mobile-menu">
+            <i class="fa fa-bars btn-mobile-menu__icon"></i>
+            <i class="fa fa-times btn-mobile-close__icon hidden"> </i>
+    </span>
+    <header class="
+        
+            panel-cover panel-cover--collapsed
+        "  style="background-image: url(/images/background-cover.jpg)" >
+        <div class="panel-main">
+            <div class="panel-main__inner panel-inverted">
+                <div class="panel-main__content"> 
+                    <a href="http://marony.github.io//" title="link to homepage for undefined"> <img src="/images/undefined_logo.png" width="80" alt="undefined logo" class="panel-cover__logo logo" /> </a> 
+                    <h1 class="panel-cover__title panel-title">
+                        <a href="http://marony.github.io//"  title="link to homepage for undefined">undefined</a>
+                    </h1>
+                    <hr class="panel-cover__divider" />
+                    <p class="panel-cover__description">  細かいことはおいおいと…  </p>
+                    <hr class="panel-cover__divider panel-cover__divider--secondary" />
+                    <div class="navigation-wrapper">
+                        <nav class="cover-navigation cover-navigation--primary">
+                            <ul class="navigation">
+                                <li class="navigation__item"><a href="http://marony.github.io/#blog" title="link to undefined blog" class="blog-button">Blog</a> </li></br>
+                                <li class="navigation__item"><a href="http://marony.github.io/profile/" title="link to profile" class="profile-button">Profile</a> </li></br>
+                                
+                                
+                           </ul>
+                        </nav> <nav class="cover-navigation navigation--social">
+    <ul class="navigation"> 
+        
+        <li class="navigation__item">
+            <a href="http://twitter.com/_marony" title="@_marony on Twitter"> <i class='fa fa-twitter'></i> <span class="label">Twitter</span> </a>
+        </li>   
+        
+        <li class="navigation__item">
+            <a href="https://github.com/marony" title="marony on github"> <i class='fa fa-github'></i> <span class="label">Github</span> </a>
+        </li>  </br>   
+        
+        <li class="navigation__item">
+            <a href="mailto:marony@binbo-kodakusan.com" title="Email marony@binbo-kodakusan.com"> <i class='fa fa-envelope-o'></i> <span class="label">Email</span> </a>
+        </li>  </ul>
+</nav>
+
+                        
+
+                    </div>
+                </div>
+            </div>
+            <div class="panel-cover--overlay"></div>
+        </div>
+    </header>
+</div>
+<noscript>
+    <style>
+        #scriptHeader {display:none;}
+        .navigation-wrapper{
+            display: block;
+            top: 0;
+        }
+    </style>
+
+    <header class="panel-cover panel-cover--collapsed" style="background-image: url(/images/background-cover.jpg)">
+        <div class="panel-main">
+            <div class="panel-main__inner panel-inverted">
+                <div class="panel-main__content"> 
+                    <a href="http://marony.github.io//" title="link to homepage for undefined"> <img src="/images/undefined_logo.png" width="80" alt="undefined logo" class="panel-cover__logo logo" /> </a> 
+                    <h1 class="panel-cover__title panel-title">
+                        <a href="http://marony.github.io//"  title="link to homepage for undefined">undefined</a>
+                    </h1>
+                    <hr class="panel-cover__divider" />
+                    <p class="panel-cover__description">  This site is built using <a href="http://gohugo.io">hugo</a> and the theme is built by <a href="http://fredrikloch.me">Fredrik</a> if you enjoy it, it is available at <a href="https://github.com/SenjinDarashiva/hugo-uno">github</a>  </p>
+                    <hr class="panel-cover__divider panel-cover__divider--secondary" />
+                    <div class="navigation-wrapper">
+                        <nav class="cover-navigation cover-navigation--primary">
+                            <ul class="navigation">
+                                <li class="navigation__item"><a href="http://marony.github.io//#blog" title="link to undefined blog" class="blog-button">Blog</a> </li></br>
+                                
+                                
+                           </ul>
+                        </nav> <nav class="cover-navigation navigation--social">
+    <ul class="navigation"> 
+        
+        <li class="navigation__item">
+            <a href="http://twitter.com/_marony" title="@_marony on Twitter"> <i class='fa fa-twitter'></i> <span class="label">Twitter</span> </a>
+        </li>   
+        
+        <li class="navigation__item">
+            <a href="https://github.com/marony" title="marony on github"> <i class='fa fa-github'></i> <span class="label">Github</span> </a>
+        </li>  </br>   
+        
+        <li class="navigation__item">
+            <a href="mailto:marony@binbo-kodakusan.com" title="Email marony@binbo-kodakusan.com"> <i class='fa fa-envelope-o'></i> <span class="label">Email</span> </a>
+        </li>  </ul>
+</nav>
+
+                    </div>
+                </div>
+            </div>
+            <div class="panel-cover--overlay"></div>
+        </div>
+    </header>
+</noscript>
+
+    <div class="content-wrapper">
+      <div class="content-wrapper__inner">
+        <div class="post">
+          <span class="post-date">Wed, Feb 20, 2019</span>
+          
+
+<h2 id="c-でハマった">C#でハマった</h2>
+
+<p>最近久しぶりにC#でハマったので備忘録です。
+lock中で要素を列挙したかったのですが、ロックの外での列挙になってしまい<code>System.InvalidOperationException: コレクションが変更されました。列挙操作は実行されない可能性があります。</code>が発生してしまっていました。</p>
+
+<p>簡易的なコードは下記</p>
+
+<h3 id="正しいコード">正しいコード</h3>
+
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 8
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 9
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">10
+</span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">11
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">12
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">13
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">14
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">15
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">16
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">17
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">18
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">19
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">20
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">21
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">22
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">23
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">24
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">25
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">26
+</span></span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">27
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">28
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">29
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">30
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">31
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">32
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">33
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">34
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">35
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">36
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">37
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">38
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">39
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">40
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">41
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">42
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">43
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">44
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">45
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">46
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">47
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="color:#66d9ef">using</span> System;
+<span style="color:#66d9ef">using</span> System.Collections.Generic;
+<span style="color:#66d9ef">using</span> System.Linq;
+
+<span style="color:#66d9ef">namespace</span> Sample
+{
+    <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Program</span>
+    {
+        <span style="color:#66d9ef">static</span> <span style="color:#66d9ef">object</span> _lock = <span style="color:#66d9ef">new</span> <span style="color:#66d9ef">object</span>();
+
+<span style="display:block;width:100%;background-color:#3c3d38">        <span style="color:#66d9ef">static</span> IEnumerable&lt;<span style="color:#66d9ef">int</span>&gt; Enum1()
+</span><span style="display:block;width:100%;background-color:#3c3d38">        {
+</span><span style="display:block;width:100%;background-color:#3c3d38">            Console.WriteLine(<span style="color:#e6db74">&#34;ENTER: Enum1&#34;</span>);
+</span><span style="display:block;width:100%;background-color:#3c3d38">            <span style="color:#66d9ef">try</span>
+</span><span style="display:block;width:100%;background-color:#3c3d38">            {
+</span><span style="display:block;width:100%;background-color:#3c3d38">                <span style="color:#66d9ef">lock</span> (_lock)
+</span><span style="display:block;width:100%;background-color:#3c3d38">                {
+</span><span style="display:block;width:100%;background-color:#3c3d38">                    <span style="color:#66d9ef">foreach</span> (<span style="color:#66d9ef">var</span> i <span style="color:#66d9ef">in</span> Enumerable.Range(<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">3</span>))
+</span><span style="display:block;width:100%;background-color:#3c3d38">                        <span style="color:#66d9ef">yield</span> <span style="color:#66d9ef">return</span> i;
+</span><span style="display:block;width:100%;background-color:#3c3d38">                }
+</span><span style="display:block;width:100%;background-color:#3c3d38">            }
+</span><span style="display:block;width:100%;background-color:#3c3d38">            <span style="color:#66d9ef">finally</span>
+</span><span style="display:block;width:100%;background-color:#3c3d38">            {
+</span><span style="display:block;width:100%;background-color:#3c3d38">                Console.WriteLine(<span style="color:#e6db74">&#34;EXIT: Enum1&#34;</span>);
+</span><span style="display:block;width:100%;background-color:#3c3d38">            }
+</span><span style="display:block;width:100%;background-color:#3c3d38">        }
+</span>
+        <span style="color:#66d9ef">static</span> <span style="color:#66d9ef">void</span> Loop1()
+        {
+            Console.WriteLine(<span style="color:#e6db74">&#34;ENTER: Loop1&#34;</span>);
+            <span style="color:#66d9ef">try</span>
+            {
+                <span style="color:#66d9ef">foreach</span> (<span style="color:#66d9ef">var</span> i <span style="color:#66d9ef">in</span> Enum1())
+                    Console.WriteLine(i);
+            }
+            <span style="color:#66d9ef">finally</span>
+            {
+                Console.WriteLine(<span style="color:#e6db74">&#34;EXIT: Loop1&#34;</span>);
+            }
+        }
+
+        <span style="color:#66d9ef">static</span> <span style="color:#66d9ef">void</span> Main(<span style="color:#66d9ef">string</span><span style="color:#a6e22e">[]</span> args)
+        {
+            Loop1();
+        }
+    }
+}</code></pre></td></tr></table>
+</div>
+</div>
+
+<h3 id="結果">結果</h3>
+
+<pre><code>ENTER: Loop1
+ENTER: Enum1
+1
+2
+3
+EXIT: Enum1
+EXIT: Loop1
+</code></pre>
+
+<h3 id="間違ったコード">間違ったコード</h3>
+
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 8
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 9
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">10
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">11
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">12
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">13
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">14
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">15
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">16
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">17
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">18
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">19
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">20
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">21
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">22
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">23
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">24
+</span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">25
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">26
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">27
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">28
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">29
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">30
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">31
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">32
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">33
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">34
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">35
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">36
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">37
+</span></span><span style="display:block;width:100%;background-color:#3c3d38"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">38
+</span></span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">39
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">40
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">41
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">42
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">43
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">44
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">45
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">46
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">47
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">48
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">49
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">50
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">51
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">52
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">53
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">54
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">55
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">56
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">57
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">58
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">59
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">60
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="color:#66d9ef">using</span> System;
+<span style="color:#66d9ef">using</span> System.Collections.Generic;
+<span style="color:#66d9ef">using</span> System.Linq;
+
+<span style="color:#66d9ef">namespace</span> Sample
+{
+    <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Program</span>
+    {
+        <span style="color:#66d9ef">static</span> <span style="color:#66d9ef">object</span> _lock = <span style="color:#66d9ef">new</span> <span style="color:#66d9ef">object</span>();
+
+        <span style="color:#66d9ef">static</span> IEnumerable&lt;<span style="color:#66d9ef">int</span>&gt; InnerEnum2()
+        {
+            Console.WriteLine(<span style="color:#e6db74">&#34;ENTER: InnerEnum2&#34;</span>);
+            <span style="color:#66d9ef">try</span>
+            {
+                <span style="color:#66d9ef">foreach</span> (<span style="color:#66d9ef">var</span> i <span style="color:#66d9ef">in</span> Enumerable.Range(<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">3</span>))
+                    <span style="color:#66d9ef">yield</span> <span style="color:#66d9ef">return</span> i;
+            }
+            <span style="color:#66d9ef">finally</span>
+            {
+                Console.WriteLine(<span style="color:#e6db74">&#34;EXIT: InnerEnum2&#34;</span>);
+            }
+        }
+
+<span style="display:block;width:100%;background-color:#3c3d38">        <span style="color:#66d9ef">static</span> IEnumerable&lt;<span style="color:#66d9ef">int</span>&gt; Enum2()
+</span><span style="display:block;width:100%;background-color:#3c3d38">        {
+</span><span style="display:block;width:100%;background-color:#3c3d38">            Console.WriteLine(<span style="color:#e6db74">&#34;ENTER: Enum2&#34;</span>);
+</span><span style="display:block;width:100%;background-color:#3c3d38">            <span style="color:#66d9ef">try</span>
+</span><span style="display:block;width:100%;background-color:#3c3d38">            {
+</span><span style="display:block;width:100%;background-color:#3c3d38">                <span style="color:#66d9ef">lock</span> (_lock)
+</span><span style="display:block;width:100%;background-color:#3c3d38">                {
+</span><span style="display:block;width:100%;background-color:#3c3d38">                    <span style="color:#66d9ef">return</span> InnerEnum2();
+</span><span style="display:block;width:100%;background-color:#3c3d38">                }
+</span><span style="display:block;width:100%;background-color:#3c3d38">            }
+</span><span style="display:block;width:100%;background-color:#3c3d38">            <span style="color:#66d9ef">finally</span>
+</span><span style="display:block;width:100%;background-color:#3c3d38">            {
+</span><span style="display:block;width:100%;background-color:#3c3d38">                Console.WriteLine(<span style="color:#e6db74">&#34;EXIT: Enum2&#34;</span>);
+</span><span style="display:block;width:100%;background-color:#3c3d38">            }
+</span>        }
+
+        <span style="color:#66d9ef">static</span> <span style="color:#66d9ef">void</span> Loop2()
+        {
+            Console.WriteLine(<span style="color:#e6db74">&#34;ENTER: Loop2&#34;</span>);
+            <span style="color:#66d9ef">try</span>
+            {
+                <span style="color:#66d9ef">foreach</span> (<span style="color:#66d9ef">var</span> i <span style="color:#66d9ef">in</span> Enum2())
+                    Console.WriteLine(i);
+            }
+            <span style="color:#66d9ef">finally</span>
+            {
+                Console.WriteLine(<span style="color:#e6db74">&#34;EXIT: Loop2&#34;</span>);
+            }
+        }
+
+        <span style="color:#66d9ef">static</span> <span style="color:#66d9ef">void</span> Main(<span style="color:#66d9ef">string</span><span style="color:#a6e22e">[]</span> args)
+        {
+            Loop2();
+        }
+    }
+}</code></pre></td></tr></table>
+</div>
+</div>
+
+<h3 id="結果-1">結果</h3>
+
+<pre><code>ENTER: Loop2
+ENTER: Enum2
+EXIT: Enum2
+ENTER: InnerEnum2
+1
+2
+3
+EXIT: InnerEnum2
+EXIT: Loop2
+</code></pre>
+
+<h3 id="enum2を下記のように修正すればok">Enum2を下記のように修正すればOK</h3>
+
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="color:#66d9ef">static</span> IEnumerable&lt;<span style="color:#66d9ef">int</span>&gt; Enum2()
+{
+    Console.WriteLine(<span style="color:#e6db74">&#34;ENTER: Enum2&#34;</span>);
+    <span style="color:#66d9ef">try</span>
+    {
+        <span style="color:#66d9ef">lock</span> (_lock)
+        {
+            <span style="color:#66d9ef">foreach</span> (<span style="color:#66d9ef">var</span> i <span style="color:#66d9ef">in</span> InnerEnum2())
+                <span style="color:#66d9ef">yield</span> <span style="color:#66d9ef">return</span> i;
+        }
+    }
+    <span style="color:#66d9ef">finally</span>
+    {
+        Console.WriteLine(<span style="color:#e6db74">&#34;EXIT: Enum2&#34;</span>);
+    }
+}</code></pre></div>
+
+        </div>
+        <div class="sharing">
+<a href="https://twitter.com/intent/tweet?status=C%23%e3%81%a7%e3%83%8f%e3%83%9e%e3%81%a3%e3%81%9f-http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190218084518%2f" target="_blank" title="Follow me on Twitter" class="twitter">
+<span class="fa fa-twitter-square fa-3x"></span></a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190218084518%2f" target="_blank" title="Join me on Facebook" class="facebook">
+<span class="fa fa-facebook-square fa-3x"></span></a>
+<a href="https://plus.google.com/share?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190218084518%2f" target="_blank" title="Google+" class="googleplus">
+<span class="fa fa-google-plus-square fa-3x"></span></a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190218084518%2f&title=C%23%e3%81%a7%e3%83%8f%e3%83%9e%e3%81%a3%e3%81%9f" target="_blank" title="LinkedIn" class="linkedin">
+<span class="fa fa-linkedin-square fa-3x"></span></a>
+<a href="http://www.reddit.com/submit?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190218084518%2f" target="_blank" title="Reddit" class="reddit"><span class="fa fa-reddit-square fa-3x"></span></a>
+<a href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fmarony.github.io%2fpost%2fpost_20190218084518%2f" target="_blank" title="StumbleUpon" class="stumbleupon"><span class="fa fa-stumbleupon fa-3x">
+</span></a>
+</div>
+        
+
+
+<div id="disqus_thread"></div>
+
+<script type="text/javascript">
+  var disqusUsername = "marony-untitled";
+
+  (function() { 
+  var d = document, s = d.createElement('script');
+
+  s.src = '//' + disqusUsername + '.disqus.com/embed.js';
+
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+      </div>
+    </div>
+
+  </body>
+  <link href="/mermaid/mermaid.css?1550623557" type="text/css" rel="stylesheet" />
+<script src="/mermaid/mermaid.js?1550623557"></script>
+<script>
+    mermaid.initialize({ startOnLoad: true });
+</script>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-26291525-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+</html>
