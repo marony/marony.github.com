@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://marony.github.io/post/post_20190225085046/</loc>
+    <lastmod>2019-02-25T08:50:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://marony.github.io/post/post_20190222091531/</loc>
     <lastmod>2019-02-22T09:15:31+09:00</lastmod>
   </url>
@@ -124,7 +129,7 @@
   
   <url>
     <loc>http://marony.github.io/post/</loc>
-    <lastmod>2019-02-22T09:15:31+09:00</lastmod>
+    <lastmod>2019-02-25T08:50:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -135,7 +140,7 @@
   
   <url>
     <loc>http://marony.github.io/</loc>
-    <lastmod>2019-02-22T09:15:31+09:00</lastmod>
+    <lastmod>2019-02-25T08:50:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
