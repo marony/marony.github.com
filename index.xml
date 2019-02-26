@@ -7,7 +7,52 @@
     <language>ja</language>
     
     
-    <updated>Tue, 26 Feb 2019 08:45:44 JST</updated>
+    <updated>Wed, 27 Feb 2019 07:23:07 JST</updated>
+    
+    <item>
+      <title>「コミュ力」は大事</title>
+      <link>http://marony.github.io/post/post_20190227072307/</link>
+      <pubDate>Wed, 27 Feb 2019 07:23:07 JST</pubDate>
+      
+      <guid>http://marony.github.io/post/post_20190227072307/</guid>
+      <description>
+
+&lt;h2 id=&#34;コミュ力-は大事&#34;&gt;「コミュ力」は大事&lt;/h2&gt;
+
+&lt;p&gt;エンジニアの求人に「コミュニケーション能力に優れた人」とか書いてあると胡散臭さを感じませんか？&lt;br /&gt;
+まるでブラック企業の求人のようですよね。&lt;br /&gt;
+これに「アットホームな職場です」「初心者歓迎」なんて続いているとブラック役満です。&lt;/p&gt;
+
+&lt;p&gt;でも仕事に「コミュ力」が不必要かと言われれば、明らかに「コミュ力」は必要です。&lt;br /&gt;
+他人とコミュニケーションを取らないでできる仕事というのは流れ作業や手順に沿ってやる仕事くらいじゃないでしょうか？&lt;/p&gt;
+
+&lt;p&gt;ただ「コミュ力」という言葉が乱用されすぎて複数の意味を持っているように感じます。&lt;/p&gt;
+
+&lt;p&gt;一般的な会話で使われる「コミュ力」って「みんなと仲良くする力」「雑談の引き出しが多くて会話を盛り上げる力」のようなものだと思います。&lt;br /&gt;
+それに対して仕事で言う「コミュ力」は「人の話をちゃんと聞いて理解する力」「他人を不快にせずに必要な情報を必要な時に相手の理解できる形で伝える力」だと思うのです。&lt;/p&gt;
+
+&lt;p&gt;前者は「コミュ力」とは呼びたくないので僕は「ウェイ力」とか「仲良し力」と呼んでいます。
+これは仕事では特に必須な力ではないと思います。&lt;br /&gt;
+あってもいいですが、仕事は馴れ合いではありません。&lt;br /&gt;
+職場がギスギスしてはダメですが、たんたんと冷静に過不足なくコミュニケーションが取れればいいと思っています。&lt;/p&gt;
+
+&lt;p&gt;後者は僕が思っている「コミュ力」で、「この仕事・作業の目的はなにか」「自分の役割はなにか」「相手が知りたいことはなにか」「相手の知識レベルはどのくらいか」などがわかっていないとコミュニケーションできません。&lt;/p&gt;
+
+&lt;p&gt;誰かから仕事を振られた時に「目的はなにか？」は必ず確認します。&lt;br /&gt;
+自分から仕事を振る時にも目的を伝えます。&lt;br /&gt;
+相手によって伝える情報の専門度や粒度を変えます。&lt;br /&gt;
+必要であれば資料や図表を用意します。&lt;br /&gt;
+チャットやメールで連絡する際も、必ずこれまでの経緯をわかるようにしたり、関連チケットや資料を添付したり、資料の正本の位置を書いたりします(面倒でも毎回です)。&lt;/p&gt;
+
+&lt;p&gt;僕がそうしてくれたら助かるのでやってるんですが、まぁ浸透しているかと言われると？？？です。&lt;br /&gt;
+「あれどうなった？」みたいなのが一番困ります。&lt;br /&gt;
+常時複数のプロジェクトに関わっているので、「あれ」がわかりませんし、「どうなった？」では何が知りたいのかわかりません。&lt;br /&gt;
+そうなるとこちらは聞き返すことから始めなければなりません。
+時間の無駄ですよね。&lt;/p&gt;
+
+&lt;p&gt;まぁ、偉そうに言っても僕もできてないことは多いですけどね。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>エンジニアはビジネスを学ぶべき</title>
@@ -1017,75 +1062,6 @@ GAFAとまではいかなくても、外資もターゲットにしたいです�
 
 &lt;p&gt;子供たちはアルゴリズムを考えたりはもう問題ないのですが、やっぱり「普通のプログラミング言語」を経験させたい。&lt;br /&gt;
 贅沢な悩みですし、好きでやってれば勝手に覚えるのかも知れませんけれど。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>profile</title>
-      <link>http://marony.github.io/profile/</link>
-      <pubDate>Sat, 05 Jan 2019 09:29:42 JST</pubDate>
-      
-      <guid>http://marony.github.io/profile/</guid>
-      <description>
-
-&lt;h2 id=&#34;人種&#34;&gt;人種&lt;/h2&gt;
-
-&lt;p&gt;C#プログラマ@東京&lt;/p&gt;
-
-&lt;h2 id=&#34;構成要素&#34;&gt;構成要素&lt;/h2&gt;
-
-&lt;div&gt;
-    &lt;canvas id=&#34;profileChart&#34; width=&#34;860&#34; height=&#34;400&#34;&gt;&lt;/canvas&gt;
-    
-    &lt;script src=&#34;../../js/chartData.js&#34;&gt;&lt;/script&gt;
-    &lt;script src=&#34;../../js/Chart.min.js&#34;&gt;&lt;/script&gt;
-    
-&lt;/div&gt;
-
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://amzn.asia/9FISHMC&#34;&gt;欲しい物リスト&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/_marony&#34;&gt;Twitter&lt;/a&gt;
-&lt;a href=&#34;https://twitter.com/_marony?ref_src=twsrc%5Etfw&#34; class=&#34;twitter-follow-button&#34; data-show-count=&#34;false&#34;&gt;Follow @_marony&lt;/a&gt;&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/marony0607/&#34;&gt;SoundCloud&lt;/a&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/127523460&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/137619535&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;githubリポジトリ&#34;&gt;GitHubリポジトリ&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/pi_js&#34;&gt;JavaScriptでPIを計算するよ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://marony.github.io/lifegame_pde/&#34;&gt;processingでライフゲーム&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/diskreport&#34;&gt;Scalaでディスク容量表示アプリ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/katamino-solver&#34;&gt;Katamino(カタミノ)解いてる&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/fix-const&#34;&gt;VSCodeのネタ機能拡張作ったり&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/monhanxx&#34;&gt;モンハンXX攻略アプリ(Ruby + Python(Django))&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/tf-fizzbuzz&#34;&gt;TensorFlowでFizzBuzz(Python)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/raft_test&#34;&gt;ScalaのAKKAでRaftアルゴリズムを試した&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/youtuber&#34;&gt;YouTubeダウンロードサイト(Scala)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/kuina-sudoku&#34;&gt;くいなちゃんのトランプ数独解法アルゴリズム(Clojure)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/SudokuCS&#34;&gt;C#で数独を解くプログラム&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/SudokuFS&#34;&gt;F#で数独を解くプログラム&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/Syogaku4&#34;&gt;小学4年生の息子の問題を解く(Scala)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/TenPuzzle&#34;&gt;10パズル(Scala)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/syogi&#34;&gt;アルゴリズム対戦将棋(Clojureのお勉強)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/worker&#34;&gt;社畜.net(ClojureでWebサービス)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/scala3d_wireframe&#34;&gt;Scalaで3D表示してみたり…&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/cpp3d&#34;&gt;C++で3D表示してみたり&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/marony/rust3d&#34;&gt;Rustで3D表示してみたり&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;思い出の写真&#34;&gt;思い出の写真&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/1464560511355.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/IMG_20160922_172626.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/P_20180116_200111_vHDR_On.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
