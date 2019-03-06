@@ -6,10 +6,19 @@
     <description>Recent content in Posts on undefined</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 27 Feb 2019 07:23:07 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2019 09:11:28 +0900</lastBuildDate>
     
 	<atom:link href="http://marony.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>情報処理</title>
+      <link>http://marony.github.io/post/post_20190306091128/</link>
+      <pubDate>Wed, 06 Mar 2019 09:11:28 +0900</pubDate>
+      
+      <guid>http://marony.github.io/post/post_20190306091128/</guid>
+      <description>情報処理 またまたIT技術関係ないポエムです。 技術ブログを目指したはずなのに… 家族で海や川や山に行くことがあるのですが、妻や長女は川の中にいる</description>
+    </item>
     
     <item>
       <title>「コミュ力」は大事</title>
