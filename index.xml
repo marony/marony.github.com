@@ -7,12 +7,12 @@
     <language>ja</language>
     
     
-    <updated>Tue, 02 Apr 2019 08:58:57 JST</updated>
+    <updated>Tue, 02 Apr 2019 08:58:57 DST</updated>
     
     <item>
       <title>人の仕事や考え方の過程が知りたい</title>
       <link>http://marony.github.io/post/post_20190402085857/</link>
-      <pubDate>Tue, 02 Apr 2019 08:58:57 JST</pubDate>
+      <pubDate>Tue, 02 Apr 2019 08:58:57 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190402085857/</guid>
       <description>
@@ -35,7 +35,7 @@
     <item>
       <title>計画が嫌い</title>
       <link>http://marony.github.io/post/post_20190329224648/</link>
-      <pubDate>Fri, 29 Mar 2019 22:46:48 JST</pubDate>
+      <pubDate>Fri, 29 Mar 2019 22:46:48 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190329224648/</guid>
       <description>
@@ -68,7 +68,7 @@
     <item>
       <title>情報処理</title>
       <link>http://marony.github.io/post/post_20190306091128/</link>
-      <pubDate>Wed, 06 Mar 2019 09:11:28 JST</pubDate>
+      <pubDate>Wed, 06 Mar 2019 09:11:28 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190306091128/</guid>
       <description>
@@ -113,7 +113,7 @@
     <item>
       <title>「コミュ力」は大事</title>
       <link>http://marony.github.io/post/post_20190227072307/</link>
-      <pubDate>Wed, 27 Feb 2019 07:23:07 JST</pubDate>
+      <pubDate>Wed, 27 Feb 2019 07:23:07 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190227072307/</guid>
       <description>
@@ -158,7 +158,7 @@
     <item>
       <title>エンジニアはビジネスを学ぶべき</title>
       <link>http://marony.github.io/post/post_20190226084544/</link>
-      <pubDate>Tue, 26 Feb 2019 08:45:44 JST</pubDate>
+      <pubDate>Tue, 26 Feb 2019 08:45:44 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190226084544/</guid>
       <description>
@@ -201,7 +201,7 @@
     <item>
       <title>ADHD Tips</title>
       <link>http://marony.github.io/post/post_20190225085046/</link>
-      <pubDate>Mon, 25 Feb 2019 08:50:47 JST</pubDate>
+      <pubDate>Mon, 25 Feb 2019 08:50:47 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190225085046/</guid>
       <description>
@@ -276,7 +276,7 @@
     <item>
       <title>可愛い・綺麗ってなに？</title>
       <link>http://marony.github.io/post/post_20190222091531/</link>
-      <pubDate>Fri, 22 Feb 2019 09:15:31 JST</pubDate>
+      <pubDate>Fri, 22 Feb 2019 09:15:31 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190222091531/</guid>
       <description>
@@ -326,7 +326,7 @@
     <item>
       <title>C#でハマった</title>
       <link>http://marony.github.io/post/post_20190218084518/</link>
-      <pubDate>Wed, 20 Feb 2019 09:30:19 JST</pubDate>
+      <pubDate>Wed, 20 Feb 2019 09:30:19 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190218084518/</guid>
       <description>
@@ -454,7 +454,7 @@ EXIT: Loop1
 
 &lt;h3 id=&#34;間違ったコード&#34;&gt;間違ったコード&lt;/h3&gt;
 
-&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;
 &lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
 &lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-csharp&#34; data-lang=&#34;csharp&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 1
 &lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 2
@@ -579,7 +579,7 @@ EXIT: Loop1
     }
 }&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;結果-1&#34;&gt;結果&lt;/h3&gt;
 
@@ -596,7 +596,7 @@ EXIT: Loop2
 
 &lt;h3 id=&#34;enum2を下記のように修正すればok&#34;&gt;Enum2を下記のように修正すればOK&lt;/h3&gt;
 
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-csharp&#34; data-lang=&#34;csharp&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; IEnumerable&amp;lt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;&amp;gt; Enum2()
+&lt;p&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-csharp&#34; data-lang=&#34;csharp&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; IEnumerable&amp;lt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;&amp;gt; Enum2()
 {
     Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ENTER: Enum2&amp;#34;&lt;/span&gt;);
     &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt;
@@ -611,14 +611,14 @@ EXIT: Loop2
     {
         Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;EXIT: Enum2&amp;#34;&lt;/span&gt;);
     }
-}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>IDEやエディタに求める機能</title>
       <link>http://marony.github.io/post/post_20190215090437/</link>
-      <pubDate>Fri, 15 Feb 2019 09:04:37 JST</pubDate>
+      <pubDate>Fri, 15 Feb 2019 09:04:37 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190215090437/</guid>
       <description>
@@ -678,7 +678,7 @@ IDEであれば、リファクタリングの補助やパフォーマンス解�
     <item>
       <title>情報濃度</title>
       <link>http://marony.github.io/post/post_20190204091135/</link>
-      <pubDate>Mon, 04 Feb 2019 09:11:35 JST</pubDate>
+      <pubDate>Mon, 04 Feb 2019 09:11:35 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190204091135/</guid>
       <description>
@@ -733,7 +733,7 @@ IDEであれば、リファクタリングの補助やパフォーマンス解�
     <item>
       <title>情報管理について</title>
       <link>http://marony.github.io/post/post_20190125101228/</link>
-      <pubDate>Fri, 25 Jan 2019 10:12:28 JST</pubDate>
+      <pubDate>Fri, 25 Jan 2019 10:12:28 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190125101228/</guid>
       <description>
@@ -791,7 +791,7 @@ IDEであれば、リファクタリングの補助やパフォーマンス解�
     <item>
       <title>兄弟仲</title>
       <link>http://marony.github.io/post/post_20190117003837/</link>
-      <pubDate>Thu, 17 Jan 2019 00:38:37 JST</pubDate>
+      <pubDate>Thu, 17 Jan 2019 00:38:37 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190117003837/</guid>
       <description>
@@ -841,7 +841,7 @@ IDEであれば、リファクタリングの補助やパフォーマンス解�
     <item>
       <title>発達障害の人は人より遅く成長する</title>
       <link>http://marony.github.io/post/post_20190115221915/</link>
-      <pubDate>Tue, 15 Jan 2019 22:19:15 JST</pubDate>
+      <pubDate>Tue, 15 Jan 2019 22:19:15 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190115221915/</guid>
       <description>
@@ -894,7 +894,7 @@ IDEであれば、リファクタリングの補助やパフォーマンス解�
     <item>
       <title>老いると言うこと</title>
       <link>http://marony.github.io/post/post_20190111065024/</link>
-      <pubDate>Fri, 11 Jan 2019 06:50:24 JST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:50:24 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190111065024/</guid>
       <description>
@@ -936,7 +936,7 @@ IDEであれば、リファクタリングの補助やパフォーマンス解�
     <item>
       <title>ITエンジニアに学歴が必要か</title>
       <link>http://marony.github.io/post/post_20190109204906/</link>
-      <pubDate>Wed, 09 Jan 2019 20:49:06 JST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 20:49:06 DST</pubDate>
       
       <guid>http://marony.github.io/post/post_20190109204906/</guid>
       <description>
