@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>undefined on undefined </title>
@@ -10,993 +9,107 @@
     <updated>Tue, 02 Apr 2019 08:58:57 DST</updated>
     
     <item>
-      <title>人の仕事や考え方の過程が知りたい</title>
-      <link>http://marony.github.io/post/post_20190402085857/</link>
+      <title>Posts</title>
+      <link>http://marony.github.io/post/</link>
       <pubDate>Tue, 02 Apr 2019 08:58:57 DST</pubDate>
       
-      <guid>http://marony.github.io/post/post_20190402085857/</guid>
-      <description>
-
-&lt;h2 id=&#34;人の仕事や考え方の過程が知りたい&#34;&gt;人の仕事や考え方の過程が知りたい&lt;/h2&gt;
-
-&lt;p&gt;プログラミングではGitHubというサービスが流行ったこともあり、作成途中のソフトウェアのソースコードの履歴が見られます。&lt;br /&gt;
-思考の過程までは見られないのですが、頑張れば推測することが可能です。&lt;/p&gt;
-
-&lt;p&gt;仕事で凄い人、絵や音楽の凄い人、そんな人の作業や思考の過程が見たくてたまりません。&lt;br /&gt;
-大抵の場合、その成果しか見えません。&lt;/p&gt;
-
-&lt;p&gt;なんでそうなったのか、成果だけを見てもキレイな結果しか見えません。&lt;/p&gt;
-
-&lt;p&gt;仕事で作成するメールからドキュメントから議事録から…、絵や音楽のファイルなんか全てのものが履歴とともに公開される世界を望んでいます。&lt;br /&gt;
-何より僕の糧になるし、世界のためにも有用だと思うのです。&lt;/p&gt;
-</description>
+      <guid>http://marony.github.io/post/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>計画が嫌い</title>
-      <link>http://marony.github.io/post/post_20190329224648/</link>
-      <pubDate>Fri, 29 Mar 2019 22:46:48 DST</pubDate>
+      <title>profile</title>
+      <link>http://marony.github.io/profile/</link>
+      <pubDate>Sat, 05 Jan 2019 09:29:42 DST</pubDate>
       
-      <guid>http://marony.github.io/post/post_20190329224648/</guid>
+      <guid>http://marony.github.io/profile/</guid>
       <description>
 
-&lt;h2 id=&#34;計画が嫌い&#34;&gt;計画が嫌い&lt;/h2&gt;
+&lt;h2 id=&#34;人種&#34;&gt;人種&lt;/h2&gt;
 
-&lt;p&gt;計画的に行動するのが嫌いです。&lt;/p&gt;
+&lt;p&gt;C#プログラマ@東京&lt;/p&gt;
 
-&lt;p&gt;例えば旅行に行く前に工程を決めることが嫌いです。&lt;br /&gt;
-行きたいところをリストアップして終わりです。&lt;br /&gt;
-行こうと思っていたところに時間がなくなって行けなかったとしても気にしません。&lt;br /&gt;
-数時間程度で切り上げるつもりだった美術館や動物園で1日潰してしまうこともしばしばです。&lt;/p&gt;
+&lt;h2 id=&#34;構成要素&#34;&gt;構成要素&lt;/h2&gt;
 
-&lt;p&gt;何かに自分の行動を縛られるのが嫌なのです。&lt;br /&gt;
-自分で立てた計画に時間が制約されるのが耐えられません。&lt;/p&gt;
-
-&lt;p&gt;ホテルや電車も予約はしません。時間が縛られるからです。&lt;br /&gt;
-パック旅行なんて最悪です。&lt;br /&gt;
-いつも歩いていても車で移動していても気になるところを見つけたら立ち寄ります。&lt;/p&gt;
-
-&lt;p&gt;人との約束は極力守りますが嫌で嫌でたまりません。&lt;br /&gt;
-今の会社は裁量労働制なのでいつ行っていつ帰っても良いのですが、打ち合わせが入っていると憂鬱になります。&lt;br /&gt;
-燃えるゴミの日、なんて決められているのが嫌です。&lt;br /&gt;
-決まった曜日にやるテレビ番組を見続けることができません。&lt;/p&gt;
-
-&lt;p&gt;だからなんだという話ですが…&lt;/p&gt;
-</description>
-    </item>
+&lt;div&gt;
+    &lt;canvas id=&#34;profileChart&#34; width=&#34;860&#34; height=&#34;400&#34;&gt;&lt;/canvas&gt;
     
-    <item>
-      <title>情報処理</title>
-      <link>http://marony.github.io/post/post_20190306091128/</link>
-      <pubDate>Wed, 06 Mar 2019 09:11:28 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190306091128/</guid>
-      <description>
-
-&lt;h2 id=&#34;情報処理&#34;&gt;情報処理&lt;/h2&gt;
-
-&lt;p&gt;またまたIT技術関係ないポエムです。&lt;br /&gt;
-技術ブログを目指したはずなのに…&lt;/p&gt;
-
-&lt;p&gt;家族で海や川や山に行くことがあるのですが、妻や長女は川の中にいる魚、木々の中にいる鳥をすぐに見つけます。&lt;br /&gt;
-僕や長男・次男はいると言われて指指す方向をじっと見つめないと見つけることができません。&lt;br /&gt;
-不思議と一度認識できればその後は割と簡単に見つけることができます。&lt;/p&gt;
-
-&lt;p&gt;妻は車の運転中でも、歩道で他と違う動きの人、気分が悪い人や警察官をすぐに発見します。&lt;/p&gt;
-
-&lt;p&gt;「なんであれが見えるの？」と毎回不思議に思っています。&lt;/p&gt;
-
-&lt;p&gt;そこで僕なりの仮説なのですが、人には「見たままを絵として認識する人」と「見たことを記号化(言語化)して認識する人」がいるのではないかと思いました。&lt;/p&gt;
-
-&lt;p&gt;妻や長女は風景そのものを頭で処理できるのではないかと思います。&lt;br /&gt;
-僕や息子たちは見たものを一度記号化します。
-そのためそこに存在するはずの情報がごっそり抜け落ちます。&lt;br /&gt;
-ひと目見て言語化しなかったものは記憶にも残りませんし、複雑なはずの川や木々が「川」や「木々」といったシンプルな「記号」になってしまいます。&lt;br /&gt;
-一度頭が認識したものはその後は記号化されるため次からは認識できるようになります。&lt;/p&gt;
-
-&lt;p&gt;普段の生活を見ていても妻は幅広い情報を並列で適当に扱うことができるようです。&lt;br /&gt;
-僕は狭い情報を理詰めで処理することしかできません。&lt;/p&gt;
-
-&lt;p&gt;人の顔を記憶する処理も同じように違う気がしています。&lt;br /&gt;
-妻は一度会った人のことをあまり忘れません。&lt;br /&gt;
-町中で「あ、あのコンビニの店員さんだ」とかよく言っていますし、芸能人の髪型や服装が変わっても惑わされません。&lt;br /&gt;
-おそらく人のそのままの姿を記憶しているのだと思います。&lt;/p&gt;
-
-&lt;p&gt;一方僕は、その人の特徴的なパーツを記憶しています。&lt;br /&gt;
-「目の大きな人だ」とか「髪が長くて色が白い人」というように。&lt;br /&gt;
-そのため、芸能人が髪型を変えるともう同じ人とは気づかない場合も多いです。&lt;/p&gt;
-
-&lt;p&gt;この辺りの頭の中の情報処理の方法が人の考え方そのものに影響を与え、あまり好きな言葉ではないですが「理系」「文系」と呼ばれるような考え方の違いになっているのではないでしょうか。&lt;/p&gt;
-</description>
-    </item>
+    &lt;script src=&#34;../../js/chartData.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;../../js/Chart.min.js&#34;&gt;&lt;/script&gt;
     
-    <item>
-      <title>「コミュ力」は大事</title>
-      <link>http://marony.github.io/post/post_20190227072307/</link>
-      <pubDate>Wed, 27 Feb 2019 07:23:07 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190227072307/</guid>
-      <description>
-
-&lt;h2 id=&#34;コミュ力-は大事&#34;&gt;「コミュ力」は大事&lt;/h2&gt;
-
-&lt;p&gt;エンジニアの求人に「コミュニケーション能力に優れた人」とか書いてあると胡散臭さを感じませんか？&lt;br /&gt;
-まるでブラック企業の求人のようですよね。&lt;br /&gt;
-これに「アットホームな職場です」「初心者歓迎」なんて続いているとブラック役満です。&lt;/p&gt;
-
-&lt;p&gt;でも仕事に「コミュ力」が不必要かと言われれば、明らかに「コミュ力」は必要です。&lt;br /&gt;
-他人とコミュニケーションを取らないでできる仕事というのは流れ作業や手順に沿ってやる仕事くらいじゃないでしょうか？&lt;/p&gt;
-
-&lt;p&gt;ただ「コミュ力」という言葉が乱用されすぎて複数の意味を持っているように感じます。&lt;/p&gt;
-
-&lt;p&gt;一般的な会話で使われる「コミュ力」って「みんなと仲良くする力」「雑談の引き出しが多くて会話を盛り上げる力」のようなものだと思います。&lt;br /&gt;
-それに対して仕事で言う「コミュ力」は「人の話をちゃんと聞いて理解する力」「他人を不快にせずに必要な情報を必要な時に相手の理解できる形で伝える力」だと思うのです。&lt;/p&gt;
-
-&lt;p&gt;前者は「コミュ力」とは呼びたくないので僕は「ウェイ力」とか「仲良し力」と呼んでいます。
-これは仕事では特に必須な力ではないと思います。&lt;br /&gt;
-あってもいいですが、仕事は馴れ合いではありません。&lt;br /&gt;
-職場がギスギスしてはダメですが、たんたんと冷静に過不足なくコミュニケーションが取れればいいと思っています。&lt;/p&gt;
-
-&lt;p&gt;後者は僕が思っている「コミュ力」で、「この仕事・作業の目的はなにか」「自分の役割はなにか」「相手が知りたいことはなにか」「相手の知識レベルはどのくらいか」などがわかっていないとコミュニケーションできません。&lt;/p&gt;
-
-&lt;p&gt;誰かから仕事を振られた時に「目的はなにか？」は必ず確認します。&lt;br /&gt;
-自分から仕事を振る時にも目的を伝えます。&lt;br /&gt;
-相手によって伝える情報の専門度や粒度を変えます。&lt;br /&gt;
-必要であれば資料や図表を用意します。&lt;br /&gt;
-チャットやメールで連絡する際も、必ずこれまでの経緯をわかるようにしたり、関連チケットや資料を添付したり、資料の正本の位置を書いたりします(面倒でも毎回です)。&lt;/p&gt;
-
-&lt;p&gt;僕がそうしてくれたら助かるのでやってるんですが、まぁ浸透しているかと言われると？？？です。&lt;br /&gt;
-「あれどうなった？」みたいなのが一番困ります。&lt;br /&gt;
-常時複数のプロジェクトに関わっているので、「あれ」がわかりませんし、「どうなった？」では何が知りたいのかわかりません。&lt;br /&gt;
-そうなるとこちらは聞き返すことから始めなければなりません。
-時間の無駄ですよね。&lt;/p&gt;
-
-&lt;p&gt;まぁ、偉そうに言っても僕もできてないことは多いですけどね。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>エンジニアはビジネスを学ぶべき</title>
-      <link>http://marony.github.io/post/post_20190226084544/</link>
-      <pubDate>Tue, 26 Feb 2019 08:45:44 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190226084544/</guid>
-      <description>
-
-&lt;h2 id=&#34;エンジニアはビジネスを学ぶべき&#34;&gt;エンジニアはビジネスを学ぶべき&lt;/h2&gt;
-
-&lt;p&gt;この手の話はどこでも湧いてきますね。&lt;br /&gt;
-じゃあ、経営者や営業は技術を学ぶべきでは？という反論もセットです。&lt;/p&gt;
-
-&lt;p&gt;ぶっちゃけ、エンジニアは
-ビジネスや英語・数学や法律・会計を含め、森羅万象宇宙の真理まで理解することが望ましいです。&lt;br /&gt;
-だけど、それだけ本分である技術の時間を削ることになります。&lt;br /&gt;
-当たり前ですね。&lt;/p&gt;
-
-&lt;p&gt;どの分野であろうと学ぶことは無限にあり人生は有限です。&lt;br /&gt;
-何かをすると選択することは、その時間でできたであろう選択しなかった他の何かを捨てることです。&lt;/p&gt;
-
-&lt;p&gt;一人で仕事をするならば幅広く学ばざるを得ないのでしょうが、
-どこまでエンジニアが技術以外の知識を必要としないまま働けるか。&lt;br /&gt;
-技術以外の作業をしないで技術に熱中させられるか。&lt;br /&gt;
-が会社組織としてのメリットであり役割だと思います。&lt;br /&gt;
-仕事の効率の点からは分業が望ましいはずです。&lt;/p&gt;
-
-&lt;p&gt;ただし、ビジネスの話が全く通じないエンジニアはいるでしょう。&lt;br /&gt;
-ビジネス上の判断を何も理解せずに技術上の正当性のみを主張する人。&lt;br /&gt;
-いますね。&lt;/p&gt;
-
-&lt;p&gt;ただし、それは経営者や営業も同様です。&lt;br /&gt;
-技術的にむちゃくちゃで実現不可能であったり、膨大なコストがかかったり、このまま開発すると運用コストが嵩んで儲かるのは最初だけですよ？みたいなの。&lt;/p&gt;
-
-&lt;p&gt;これはもう曖昧な言い方になりますが、相互にできるだけ理解し合いましょう。&lt;br /&gt;
-会話しましょう。&lt;br /&gt;
-くらいしか言えないですね。&lt;/p&gt;
-
-&lt;p&gt;歩み寄り、妥協、コミュニケーション…エンジニアが不得意とするところですが、
-お互いの文化や知識に重なり合う部分がないと会話は成り立たないわけですから。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ADHD Tips</title>
-      <link>http://marony.github.io/post/post_20190225085046/</link>
-      <pubDate>Mon, 25 Feb 2019 08:50:47 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190225085046/</guid>
-      <description>
-
-&lt;h2 id=&#34;adhd-tips&#34;&gt;ADHD Tips&lt;/h2&gt;
-
-&lt;p&gt;ASDと診断されたことはあれどADHDと診断されたことはないけど、っぽいなぁとは常々思っています。&lt;br /&gt;
-それでもなんとか生活して働いているので、これ系の本を読めば書いてあることだけれども「コツ」を書いておきます。&lt;/p&gt;
-
-&lt;h3 id=&#34;自分で管理しなければならないものを極力減らす&#34;&gt;自分で管理しなければならないものを極力減らす&lt;/h3&gt;
-
-&lt;p&gt;ものを増やすのは簡単なのですが、ものが増えると管理やメンテや判断を増やすことになります。&lt;br /&gt;
-便利なものはどんどん導入したいところですがコストが上回るならば本末転倒です。&lt;br /&gt;
-逆に「断捨離」なんて不便を我慢してやりたくありません。&lt;/p&gt;
-
-&lt;p&gt;例えばポイントカード。&lt;br /&gt;
-お得に思えてしまうのでついつい作ってしまいがちですが、ポイントを管理したり、ポイントを使える店と安い店のどちらが得かなど、ポイントカードを持っていない場合には必要がない判断が必要になります。&lt;br /&gt;
-レジでカードを財布から探して出すのも時間的コストがかかりますし、さらにカードをたくさん入れると財布が痛むのも早くなります。&lt;br /&gt;
-ポイントカードで得するのが月に数百円ならば気にする労力の方が大きいです。&lt;/p&gt;
-
-&lt;p&gt;クレジットカードも同様、財布と銀行残高以外に管理することが増えるのでデビットカードにしています。&lt;/p&gt;
-
-&lt;p&gt;ただ、僕も高額な場合が多い家電量販店のポイントカードとDVDレンタルに必要なTSUTAYAのカードだけは持っています。&lt;br /&gt;
-楽になるのが目的なので徹底する必要はないです。&lt;/p&gt;
-
-&lt;p&gt;またテレビ番組。&lt;br /&gt;
-もしくは時間の決まったニコニコ動画のような放映。&lt;br /&gt;
-朝、時間を知るためにテレビのニュースを流しているんですが、それ以外、特に毎週やる番組は見ません。&lt;br /&gt;
-春と秋に新しい番組を調べるのも億劫ですし、何よりも放映時間を管理しなければなりませんし、さらに視聴するには自分に時間的な制約が生まれます。&lt;br /&gt;
-予約録画するにしても、です。&lt;/p&gt;
-
-&lt;p&gt;アニメや漫画やラノベもそう。&lt;br /&gt;
-好きではあるのですが、アニメなら全話DVDかレンタルになるのを待つか、漫画なら全巻発売後に読み始めます。&lt;br /&gt;
-放映日や発売日を気にしたくない(＝管理したくない)からです。&lt;/p&gt;
-
-&lt;p&gt;今、自分が一番好きなラノベ「&lt;a href=&#34;http://www.tobooks.jp/booklove/&#34;&gt;本好きの下剋上&lt;/a&gt;」だけはリアルタイムで読んでますが、これも気がついたら発売日が過ぎてたりしますね…&lt;/p&gt;
-
-&lt;h3 id=&#34;記憶することをやめる&#34;&gt;記憶することをやめる&lt;/h3&gt;
-
-&lt;p&gt;僕はなんでもメモやToDoリストやGoogleカレンダーに記載するので自分で記憶していることがほぼありません。&lt;br /&gt;
-「帰りに乾電池を買う」なんてのもToDoリストに入ってますし、子どもたちの誕生日もGoogleカレンダーに入っています。&lt;br /&gt;
-(人の顔と名前を効率的にメモする手段が思いつかず、この辺は忘却の彼方なのですが)&lt;/p&gt;
-
-&lt;p&gt;持ち物は家でも会社でも毎日365日必ず同じものは同じ場所に置きます。&lt;br /&gt;
-そうしないと探し回ったり忘れたりするからです。&lt;br /&gt;
-さすがに毎日同じ場所に置いてあれば体が覚えています。&lt;/p&gt;
-
-&lt;p&gt;カバンの中身も入れ替えません。&lt;br /&gt;
-毎日同じ場所に同じものが入っています。&lt;br /&gt;
-一週間に一度必要なものや出張時だけに必要なものでも、持ち運べるならば毎日持ち運びます。&lt;br /&gt;
-絶対に出張時に忘れるからです。&lt;/p&gt;
-
-&lt;p&gt;記憶することをやめると明らかに思考が捗ります。&lt;br /&gt;
-思考する際にモヤがかかっている脳みそが晴れていく感覚があります。&lt;br /&gt;
-その思考すらも紙に書きながら行って、記憶には頼らないようにしています。&lt;/p&gt;
-
-&lt;h3 id=&#34;慣習やルールに惑わされない&#34;&gt;慣習やルールに惑わされない&lt;/h3&gt;
-
-&lt;p&gt;東京ではそれほどでもないと思いますが、田舎にはまだまだ意味のわからない慣習が残っています。&lt;br /&gt;
-田舎の人は人と触れ合うのが大好きですが、それに真面目に付き合っていると時間がいくらあっても足りません。&lt;br /&gt;
-今は自営業や専業主婦が減り仕事時間も増えているので昔ほど時間的な余裕はありませんし、人付き合いは地域だけではなくネットを通じて遠方やネットそのもので行えるので地域に根付くコミュニティの優先度は下がっています。&lt;br /&gt;
-意味のわからない作業や集まりは断ったり途中で帰ったりしましょう。&lt;br /&gt;
-最低限は必要でしょうが、バカ正直に全てに付き合っていたら気疲れして死んでしまいます。&lt;/p&gt;
-
-&lt;p&gt;また、会社でも様々なルールや飲み会が存在します。&lt;br /&gt;
-さすがに全部無視はできないですが、全てを行う必要もありません。&lt;/p&gt;
-
-&lt;p&gt;他にもありますが、基本的には目先のメリットに惑わされず生活における「管理コスト」「運用コスト」を気にしていこう、という話でした。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>可愛い・綺麗ってなに？</title>
-      <link>http://marony.github.io/post/post_20190222091531/</link>
-      <pubDate>Fri, 22 Feb 2019 09:15:31 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190222091531/</guid>
-      <description>
-
-&lt;h2 id=&#34;可愛い-綺麗ってなに&#34;&gt;可愛い・綺麗ってなに？&lt;/h2&gt;
-
-&lt;p&gt;エビデンスも何もないポエムです。&lt;br /&gt;
-「可愛い」とか「綺麗」って不思議じゃないですか？&lt;/p&gt;
-
-&lt;p&gt;基本的には人類の進化の過程で身についた種の存続に必要な感性なのでしょう。&lt;/p&gt;
-
-&lt;p&gt;わかりやすく僕にとっての異性である女の人で説明しますが、
-芸能人には可愛い人や綺麗な人が多いです。&lt;br /&gt;
-これに異論がある人がいるとそこで話は終わってしまうのですが、
-好みの問題はあるにしても、人によって可愛い・綺麗の方向性は似ているんじゃないかと思っています。&lt;/p&gt;
-
-&lt;p&gt;アメリカ映画やインド映画や韓国映画を見ても、彼らにとっての美男美女であろう俳優たちは僕にとっても美男美女です。&lt;br /&gt;
-もちろん「この人はないだろ」という人がいないことはないですが、おおまかな方向性としてはそうです。&lt;br /&gt;
-これは欧米文化に触れると身につく感性なのでしょうか？&lt;br /&gt;
-未開の民族では違うのかも知れませんが、国も文化も違うのに似通っているというのが不思議でなりません。&lt;/p&gt;
-
-&lt;p&gt;「可愛い」は赤ちゃんや子供を可愛がるように本能的に可愛く見えると聞いたことがあります。&lt;br /&gt;
-小さくて目が大きくて笑顔で顔のパーツが真ん中に寄っているとかですね。&lt;br /&gt;
-アニメやゲームの可愛いキャラクターはこれをデフォルメしたようになってますよね。&lt;br /&gt;
-人間でなく、動物の赤ちゃんもそういう傾向があるように思います。&lt;/p&gt;
-
-&lt;p&gt;これは「弱者を可愛がりたい」というまさに種の存続に直結することなのでさして不思議ではありません。&lt;/p&gt;
-
-&lt;p&gt;本題は「綺麗」の方です。&lt;br /&gt;
-様々な人間の顔の平均を取ると「綺麗」な顔になるという話を聞いたことがあります。&lt;/p&gt;
-
-&lt;p&gt;「綺麗」というのは様々な病気・障害から一番かけ離れた外見なのではないかと思っています。&lt;br /&gt;
-あるいは、体が丈夫な人の優れている人の特徴だったりするのかも知れません。&lt;br /&gt;
-ちょっと詳しく書くと倫理的に問題があり炎上しそうなのですが、そういう特定の人たちから遠ざかるためにそこからかけ離れた人が綺麗に好ましく見えるのではないかと。&lt;/p&gt;
-
-&lt;p&gt;さらに「論理的」な人や「オタク」は綺麗ではない人が多いのではないかと思っています。&lt;br /&gt;
-人類にとって確かに必要だけれど、不必要に増えてしまうと種が存続できないのではないかと。&lt;/p&gt;
-
-&lt;p&gt;また「綺麗」な人は「生活感を感じない」ような気がしますし、「中性的」でもあるような気がします。&lt;br /&gt;
-この辺はよくわからないです。&lt;br /&gt;
-どういう意味があるのでしょうか？&lt;/p&gt;
-
-&lt;p&gt;はい、ポエムでした。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>C#でハマった</title>
-      <link>http://marony.github.io/post/post_20190218084518/</link>
-      <pubDate>Wed, 20 Feb 2019 09:30:19 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190218084518/</guid>
-      <description>
-
-&lt;h2 id=&#34;c-でハマった&#34;&gt;C#でハマった&lt;/h2&gt;
-
-&lt;p&gt;最近久しぶりにC#でハマったので備忘録です。&lt;br /&gt;
-lock中で要素を列挙したかったのですが、ロックの外での列挙になってしまい&lt;code&gt;System.InvalidOperationException: コレクションが変更されました。列挙操作は実行されない可能性があります。&lt;/code&gt;が発生してしまっていました。&lt;/p&gt;
-
-&lt;p&gt;簡易的なコードは下記&lt;/p&gt;
-
-&lt;h3 id=&#34;正しいコード&#34;&gt;正しいコード&lt;/h3&gt;
-
-&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;
-&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
-&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-csharp&#34; data-lang=&#34;csharp&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 1
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 2
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 3
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 4
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 5
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 6
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 7
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 8
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 9
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;10
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;11
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;12
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;13
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;14
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;15
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;16
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;17
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;18
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;19
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;20
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;21
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;22
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;23
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;24
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;25
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;26
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;27
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;28
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;29
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;30
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;31
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;32
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;33
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;34
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;35
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;36
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;37
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;38
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;39
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;40
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;41
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;42
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;43
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;44
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;45
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;46
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;47
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
-&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-csharp&#34; data-lang=&#34;csharp&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;using&lt;/span&gt; System;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;using&lt;/span&gt; System.Collections.Generic;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;using&lt;/span&gt; System.Linq;
-
-&lt;span style=&#34;color:#66d9ef&#34;&gt;namespace&lt;/span&gt; Sample
-{
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Program&lt;/span&gt;
-    {
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;object&lt;/span&gt; _lock = &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;object&lt;/span&gt;();
-
-&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; IEnumerable&amp;lt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;&amp;gt; Enum1()
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;        {
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ENTER: Enum1&amp;#34;&lt;/span&gt;);
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt;
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            {
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;                &lt;span style=&#34;color:#66d9ef&#34;&gt;lock&lt;/span&gt; (_lock)
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;                {
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;                    &lt;span style=&#34;color:#66d9ef&#34;&gt;foreach&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; i &lt;span style=&#34;color:#66d9ef&#34;&gt;in&lt;/span&gt; Enumerable.Range(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;))
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;                        &lt;span style=&#34;color:#66d9ef&#34;&gt;yield&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; i;
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;                }
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            }
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            &lt;span style=&#34;color:#66d9ef&#34;&gt;finally&lt;/span&gt;
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            {
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;                Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;EXIT: Enum1&amp;#34;&lt;/span&gt;);
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            }
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;        }
-&lt;/span&gt;
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; Loop1()
-        {
-            Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ENTER: Loop1&amp;#34;&lt;/span&gt;);
-            &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt;
-            {
-                &lt;span style=&#34;color:#66d9ef&#34;&gt;foreach&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; i &lt;span style=&#34;color:#66d9ef&#34;&gt;in&lt;/span&gt; Enum1())
-                    Console.WriteLine(i);
-            }
-            &lt;span style=&#34;color:#66d9ef&#34;&gt;finally&lt;/span&gt;
-            {
-                Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;EXIT: Loop1&amp;#34;&lt;/span&gt;);
-            }
-        }
-
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; Main(&lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[]&lt;/span&gt; args)
-        {
-            Loop1();
-        }
-    }
-}&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&#34;結果&#34;&gt;結果&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;ENTER: Loop1
-ENTER: Enum1
-1
-2
-3
-EXIT: Enum1
-EXIT: Loop1
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;間違ったコード&#34;&gt;間違ったコード&lt;/h3&gt;
-
-&lt;p&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;
-&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
-&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-csharp&#34; data-lang=&#34;csharp&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 1
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 2
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 3
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 4
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 5
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 6
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 7
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 8
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt; 9
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;10
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;11
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;12
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;13
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;14
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;15
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;16
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;17
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;18
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;19
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;20
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;21
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;22
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;23
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;24
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;25
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;26
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;27
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;28
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;29
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;30
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;31
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;32
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;33
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;34
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;35
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;36
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;37
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;38
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;39
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;40
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;41
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;42
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;43
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;44
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;45
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;46
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;47
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;48
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;49
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;50
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;51
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;52
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;53
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;54
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;55
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;56
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;57
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;58
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;59
-&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79&#34;&gt;60
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
-&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-csharp&#34; data-lang=&#34;csharp&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;using&lt;/span&gt; System;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;using&lt;/span&gt; System.Collections.Generic;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;using&lt;/span&gt; System.Linq;
-
-&lt;span style=&#34;color:#66d9ef&#34;&gt;namespace&lt;/span&gt; Sample
-{
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Program&lt;/span&gt;
-    {
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;object&lt;/span&gt; _lock = &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;object&lt;/span&gt;();
-
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; IEnumerable&amp;lt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;&amp;gt; InnerEnum2()
-        {
-            Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ENTER: InnerEnum2&amp;#34;&lt;/span&gt;);
-            &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt;
-            {
-                &lt;span style=&#34;color:#66d9ef&#34;&gt;foreach&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; i &lt;span style=&#34;color:#66d9ef&#34;&gt;in&lt;/span&gt; Enumerable.Range(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;))
-                    &lt;span style=&#34;color:#66d9ef&#34;&gt;yield&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; i;
-            }
-            &lt;span style=&#34;color:#66d9ef&#34;&gt;finally&lt;/span&gt;
-            {
-                Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;EXIT: InnerEnum2&amp;#34;&lt;/span&gt;);
-            }
-        }
-
-&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; IEnumerable&amp;lt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;&amp;gt; Enum2()
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;        {
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ENTER: Enum2&amp;#34;&lt;/span&gt;);
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt;
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            {
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;                &lt;span style=&#34;color:#66d9ef&#34;&gt;lock&lt;/span&gt; (_lock)
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;                {
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;                    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; InnerEnum2();
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;                }
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            }
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            &lt;span style=&#34;color:#66d9ef&#34;&gt;finally&lt;/span&gt;
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            {
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;                Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;EXIT: Enum2&amp;#34;&lt;/span&gt;);
-&lt;/span&gt;&lt;span style=&#34;display:block;width:100%;background-color:#3c3d38&#34;&gt;            }
-&lt;/span&gt;        }
-
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; Loop2()
-        {
-            Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ENTER: Loop2&amp;#34;&lt;/span&gt;);
-            &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt;
-            {
-                &lt;span style=&#34;color:#66d9ef&#34;&gt;foreach&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; i &lt;span style=&#34;color:#66d9ef&#34;&gt;in&lt;/span&gt; Enum2())
-                    Console.WriteLine(i);
-            }
-            &lt;span style=&#34;color:#66d9ef&#34;&gt;finally&lt;/span&gt;
-            {
-                Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;EXIT: Loop2&amp;#34;&lt;/span&gt;);
-            }
-        }
-
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; Main(&lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;[]&lt;/span&gt; args)
-        {
-            Loop2();
-        }
-    }
-}&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;結果-1&#34;&gt;結果&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;ENTER: Loop2
-ENTER: Enum2
-EXIT: Enum2
-ENTER: InnerEnum2
-1
-2
-3
-EXIT: InnerEnum2
-EXIT: Loop2
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;enum2を下記のように修正すればok&#34;&gt;Enum2を下記のように修正すればOK&lt;/h3&gt;
-
-&lt;p&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-csharp&#34; data-lang=&#34;csharp&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; IEnumerable&amp;lt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;&amp;gt; Enum2()
-{
-    Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ENTER: Enum2&amp;#34;&lt;/span&gt;);
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt;
-    {
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;lock&lt;/span&gt; (_lock)
-        {
-            &lt;span style=&#34;color:#66d9ef&#34;&gt;foreach&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; i &lt;span style=&#34;color:#66d9ef&#34;&gt;in&lt;/span&gt; InnerEnum2())
-                &lt;span style=&#34;color:#66d9ef&#34;&gt;yield&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; i;
-        }
-    }
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;finally&lt;/span&gt;
-    {
-        Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;EXIT: Enum2&amp;#34;&lt;/span&gt;);
-    }
-}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IDEやエディタに求める機能</title>
-      <link>http://marony.github.io/post/post_20190215090437/</link>
-      <pubDate>Fri, 15 Feb 2019 09:04:37 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190215090437/</guid>
-      <description>
-
-&lt;h2 id=&#34;ideやエディタに求める機能&#34;&gt;IDEやエディタに求める機能&lt;/h2&gt;
-
-&lt;p&gt;プログラミングをする際に必ずお世話になるのがIDEやエディタです。&lt;br /&gt;
-IDE(VisualStudioやIntelliJ IDEAなど)もエディタ(VSCode, ATOM, vim, Emacs)なども、様々なプログラミング言語で文法による色分け表示や定義にジャンプできるのは当たり前です。&lt;br /&gt;
-IDEであれば、リファクタリングの補助やパフォーマンス解析やデータベース管理、ソース管理との統合などの含まれていますが、
-ここでは、その他に僕が欲しい機能を列挙します。&lt;/p&gt;
-
-&lt;h3 id=&#34;コードに付箋を貼り付けたい&#34;&gt;コードに付箋を貼り付けたい&lt;/h3&gt;
-
-&lt;p&gt;エディタで表示されているコードのある部分に対して、矢印を引っ張った付箋を貼り付け「この部分はXXXなので注意」「この部分の仕様」などなど付箋を貼りたいです。&lt;br /&gt;
-コメントよりもわかりやすくなるのではないかと思います。&lt;br /&gt;
-これらのデータを保存するために、コメント部分を活用するのか別にソースファイルと対になるデータファイルを管理するかなど、実装方法は工夫する必要がありますが、ぜひ欲しいです。&lt;/p&gt;
-
-&lt;h3 id=&#34;コードに図形を書きたい&#34;&gt;コードに図形を書きたい&lt;/h3&gt;
-
-&lt;p&gt;コードを書くテキストエディタとPlantUMLやMermaidと統合されて自由に図形を描きたいです。&lt;br /&gt;
-常に表示されていたらそれはそれでウザそうなので、カーソルを合わせたらポップアップするようなのがいいでしょうか。&lt;br /&gt;
-(Mermaidでもまだ図形描画という点では弱いので本当はVISIOなんかが貼り付けられればいいのですがそれは高望みしすぎだと思います。)&lt;/p&gt;
-
-&lt;h3 id=&#34;コードを自由に色分けしたい&#34;&gt;コードを自由に色分けしたい&lt;/h3&gt;
-
-&lt;p&gt;今でもプログラミング言語の文法に応じて自動で色分けされますが、それに上書きする形で自分で色を変えたり下線を引いたりしたいです。&lt;br /&gt;
-上の2つと同じようなものですね。&lt;/p&gt;
-
-&lt;h3 id=&#34;演算子の優先順位を視覚的にわかるようにして欲しい&#34;&gt;演算子の優先順位を視覚的にわかるようにして欲しい&lt;/h3&gt;
-
-&lt;p&gt;様々なプログラミング言語でだいたい同じですが演算子の優先順位はすぐに忘れてしまいます。&lt;br /&gt;
-僕の場合は記憶が曖昧な部分は括弧を多用しますが、コードが冗長になってしまいます。&lt;br /&gt;
-目で見て優先順位が判断できれば便利だと思います。&lt;br /&gt;
-入れ子になった色分けや枠で囲うなどどう表示すればわかりやすいのかあまり考えていませんが、演算子の優先順位を視覚的に知りたいです。&lt;/p&gt;
-
-&lt;h3 id=&#34;コンパイルエラー発生時の途中経過が知りたい&#34;&gt;コンパイルエラー発生時の途中経過が知りたい&lt;/h3&gt;
-
-&lt;p&gt;新しいコンパイラ(clangやrustcなど)は、コンパイルエラーが発生した時のメッセージがかなりわかりやすくなりそれだけでも大助かりです。&lt;br /&gt;
-ただ、それでもエラー発生箇所がわかりにくい場合が多々あります。&lt;br /&gt;
-そこで、構文エラーや型エラーの際にコンパイラがどう解析してエラーになったのかがわかるように、そこまでの途中経過の構文解析木のようなものを表示して欲しいです。&lt;/p&gt;
-
-&lt;h3 id=&#34;実行結果を表示して欲しい&#34;&gt;実行結果を表示して欲しい&lt;/h3&gt;
-
-&lt;p&gt;大規模なソフトウェアになると自動テストやステージング環境でのテストではどうしても本番環境での動作を再現できないことが増えてきます。&lt;br /&gt;
-他社ベンダのソフトウェアとたくさん連携したり、社内の環境で再現するのは不可能なほどの負荷がかかったり、あらかじめ自動で生成するのが難しい複雑なパターンのデータが発生したり…&lt;/p&gt;
-
-&lt;p&gt;仕事の話になりますが、最近では仕様やコードの誤りによる障害というのはほぼ発生しなくて、本番環境でのみ発生する負荷や他社ソフトウェアからの要求、ある国が休日だった…などなど、環境による障害が多いです。&lt;br /&gt;
-「うぉ！本番だとこんなことが起きるの！？」の連続です。&lt;/p&gt;
-
-&lt;p&gt;その解消に役に立つと思っているのですが、本番環境などで実際に動かした際の情報を記録し、コード上に引数のパターンや呼び出し回数などを表示してほしいです。&lt;br /&gt;
-実際には数千万、数億回呼ばれるわけなので、何をどう記録してどう表示するんだという難問ではあります。&lt;/p&gt;
-
-&lt;p&gt;以上、言い出しっぺの法則が適用されないただのメモです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>情報濃度</title>
-      <link>http://marony.github.io/post/post_20190204091135/</link>
-      <pubDate>Mon, 04 Feb 2019 09:11:35 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190204091135/</guid>
-      <description>
-
-&lt;h2 id=&#34;情報濃度&#34;&gt;情報濃度&lt;/h2&gt;
-
-&lt;p&gt;単なる思考のダダ漏れ。特に根拠があるわけではないポエムです。&lt;/p&gt;
-
-&lt;p&gt;「最近の若者は…」というのは2000年以上前にプラトンだかアリストテレスだかが言ったとか言わないとか聞いたことがあります。&lt;br /&gt;
-歳を取ると「最近の若者は…」と言いたくなってしまうようですが、僕は今のところ「最近の若者すげー！」「怠けてたら俺やべー！」と思って過ごしております。&lt;br /&gt;
-若者に仕事を奪われないように勉強を続けたいものです。&lt;/p&gt;
-
-&lt;p&gt;さて「最近の若者は…」と言えば、僕が子供の頃よりも
-文化レベルがとても向上していると感じます。&lt;/p&gt;
-
-&lt;p&gt;歩きタバコ、今ではほとんど見ません。&lt;br /&gt;
-飲酒運転や一時停止違反、親世代を見ていると「警察に捕まらなければ特に守る必要はない」程度の認識だったと思います。&lt;br /&gt;
-お金を払って駐車場に車を止めるというのも抵抗感があるようで違法駐車も当然のことでした。&lt;/p&gt;
-
-&lt;p&gt;若干ルールばかり厳しくなり本質の改善につながってはいないのではないかと感じることもありますが、文化としては昔よりも高度になっていると感じます。&lt;br /&gt;
-「できて当たり前」の基準がガンガン上がっています。&lt;/p&gt;
-
-&lt;p&gt;文化レベルだけではなく仕事の内容も高度になっています。&lt;br /&gt;
-お客さんも昔より賢く用心深くなっているので、とりあえず気合で飛び込み営業すれば仕事をゲットできるような世の中ではありません。&lt;br /&gt;
-仕事道具が便利になって、人の手で行わなくてもよくなったこともありますし、昔の何百倍もの速度で仕事が回るようになりました。&lt;br /&gt;
-「お客さんから電話がかかってくるかも知れないので午前中は会社で待機します」なんて悠長な仕事は今ではありません。&lt;/p&gt;
-
-&lt;p&gt;「最近の若者は…」という言葉は、昔は考慮しなければならない情報自体が少なく「とりあえず気合を入れて頑張る」でどうにかなっていたということだと思っています。
-今は「とりあえず頑張ればどうにかなる」ことなんてそれほどありません。&lt;br /&gt;
-集めた情報を元に作戦を立てた上で行動しなければまず失敗します。&lt;/p&gt;
-
-&lt;p&gt;それもこれもインターネットや流通の発展によって情報が手軽に集まるようになったことが原因なのだと思います。&lt;/p&gt;
-
-&lt;p&gt;僕の勝手な思い込みですが、人の脳みそには情報を貯めておく容量が決まっていて、それぞれ適正な「情報濃度」があるのだと思っています。&lt;br /&gt;
-情報過多で頭がいっぱいいっぱいな状況が長く続くと疲れ果ててまともに考えられなくなりますし、ボーッとして脳みそから情報を追い出さないとストレスになります。&lt;br /&gt;
-逆に情報がスカスカの状況では、まともに思考が働くのに必要な情報が足りないということになります。&lt;/p&gt;
-
-&lt;p&gt;この「情報濃度」ですが、個人差は激しいのではないかと考えていますが、平均として考えると多くの情報に晒されている今の人の方が昔の人よりも多いのではないかと思います。&lt;/p&gt;
-
-&lt;p&gt;頭の中に溜まっている情報が多いので、判断材料が多く、昔の人よりも並列で何手先をも読みつつ行動できます。&lt;br /&gt;
-自分も相手も平均的に判断基準自体が上がっているのです。&lt;br /&gt;
-これは仕事などの相手に関しても同様なので、社会全体の判断基準が上がっています。&lt;/p&gt;
-
-&lt;p&gt;その代わり「とりあえず行動してみる」というのは難しくなりつつあると思っています。&lt;br /&gt;
-成功例、失敗例、無数の情報がある中で「何も考えずに行動する」というのは勇気がいることです。&lt;br /&gt;
-昔ならば、情報自体が少なかったので敷居は低かったと思います。&lt;/p&gt;
-
-&lt;p&gt;この辺りが昔の人から見ると「最近の若者は…」なのではないかと思います。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>情報管理について</title>
-      <link>http://marony.github.io/post/post_20190125101228/</link>
-      <pubDate>Fri, 25 Jan 2019 10:12:28 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190125101228/</guid>
-      <description>
-
-&lt;h2 id=&#34;情報管理について&#34;&gt;情報管理について&lt;/h2&gt;
-
-&lt;p&gt;情報管理には10億年くらい悩んでいます。&lt;br /&gt;
-デーモン閣下が生まれる前からです。&lt;/p&gt;
-
-&lt;p&gt;タスクや予定や覚えておかなければいけないメモ。&lt;br /&gt;
-今やっていることを忘れないための作業メモや設計などを考える時の落書き。&lt;br /&gt;
-やらなければいけないわけでもないけど常に意識していたいこと。&lt;br /&gt;
-仕事のプロジェクト(並行で3つとかそれ以上)で作業中のファイルやチケット管理(1プロジェクトで10個あったりする)などへのリンク。&lt;br /&gt;
-今読んでいる最中の本(だいたい5冊くらい並行に読んでる)やその記録。&lt;br /&gt;
-返信しなければいけないメール・チャットや、読みたいブログ。&lt;br /&gt;
-作ってるプログラムの改善点やアイデア。&lt;br /&gt;
-見たい映画や買いたい物、出かけたい場所、家族の誕生日。&lt;/p&gt;
-
-&lt;p&gt;これらの情報を手間なくスムーズに更新し見つけられる状態にしておきたい。&lt;br /&gt;
-色んな本やブログを見ても自分の思い通りのシステムはありません。&lt;br /&gt;
-もちろん要素要素は役に立つのですが、僕の管理しているものは細かすぎるみたいです。&lt;/p&gt;
-
-&lt;p&gt;「今度、日本語漢字変換システムを作りたい」なんて夢・希望(100個あったりする)は普通の人は管理しないみたいですし、
-「使い捨てコンタクトレンズを買わないとなくなる」なんてのも普通の人は覚えているでしょう。
-これに付随して「コンタクトレンズが安い店を探す」「妻にもコンタクトレンズがあるか聞く」なんて言うタスクが追加になります。&lt;br /&gt;
-仕事のチケット管理システムや資料の置き場へのリンクも毎日使うものなので無意識で覚えてるのではないでしょうか。&lt;/p&gt;
-
-&lt;p&gt;僕は記憶力がニワトリ以下です。&lt;br /&gt;
-上記のようなことを管理しているのでタスクが1000個超えます。&lt;/p&gt;
-
-&lt;p&gt;タスク管理(だけ)に関しては &lt;a href=&#34;http://marony.github.io/post/post_20181228154039/&#34;&gt;管理できない人のタスク管理&lt;/a&gt; で説明したとおりですが、タスク以外というかタスクと関連するファイルやリンクやメールやチャットとの連携がイマイチ取れていません。&lt;/p&gt;
-
-&lt;p&gt;「今やらなければいけないのはコレ！」 → 「それに関連する情報群はコレ！」という流れを作りたいです。&lt;/p&gt;
-
-&lt;p&gt;前半についてはEmacs上で動くhowmがいい感じでした。&lt;br /&gt;
-「浮沈ToDo」という仕組みで、自動でタスクを上下してくれるのです。&lt;br /&gt;
-ただし、howmは順序がなくリンクやタグでしかタスクが関連していないので、複数のタスクの関連(プロジェクト)が弱いです。&lt;br /&gt;
-このプロジェクトでは次に何をしたらいい？がすぐにはわかりません。&lt;br /&gt;
-これを改善するためにプロジェクトごとにタスクを作って、そのプロジェクトに関連するタスクへのリンク集を作ったりもしたのですが面倒すぎて続きませんでした。&lt;/p&gt;
-
-&lt;p&gt;後半についてはタスクごとにPCのローカルにディレクトリを作って、そこに参考資料や作成している資料、リンクを収めたテキストファイルにアイデアやメモなどを格納しています。
-チャットなどはリンクが貼れないので、発信者と時刻と内容をメモしたりしています。
-これはこれでなんとか流れているのですが、煩雑でシステムとして出来上がってません。&lt;/p&gt;
-
-&lt;p&gt;今現在も色々と悩んでいるのですが、実は「考えなんてどんどん変わるので飽きたら全部捨てて違う方法を試す」くらいでちょうどいいのかな、とも思っています。&lt;br /&gt;
-どうしてもデジタルで管理しだすと、ポケット１つ原則が気になりだし、タグ付けにこだわり、検索できるように整理したりしますが、これがもう億劫ですし、そもそも後で見返してもたいして役に立つ情報なんてありませんでした。&lt;br /&gt;
-その時にやりたかったことや思いついたアイデアが今となっては役に立たない、なんてことが多々あります。&lt;br /&gt;
-もちろん備忘録は別です。&lt;br /&gt;
-親類の住所や家族の誕生日や社内の開発環境の設定や構築手順など絶対にいつか見返して役に立つ情報ですね。&lt;/p&gt;
-
-&lt;p&gt;それ以外はたびたび捨ててしまっていいのではないかな、と思っています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>兄弟仲</title>
-      <link>http://marony.github.io/post/post_20190117003837/</link>
-      <pubDate>Thu, 17 Jan 2019 00:38:37 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190117003837/</guid>
-      <description>
-
-&lt;h2 id=&#34;兄弟仲&#34;&gt;兄弟仲&lt;/h2&gt;
-
-&lt;p&gt;うちには長男(中2)と次男(中1)と長女(小6)がいます。&lt;/p&gt;
-
-&lt;p&gt;兄弟とても仲が良くて、
-(家の中まで寒いので)同じ布団に入りながら3人でケラケラ笑って動画を見たりしています。&lt;br /&gt;
-3人でMinecraft(マインクラフト)をしたり、2人で歌って1人が踊ってたりもします。&lt;br /&gt;
-親には内緒で恋バナに話を咲かせたりもしているっぽいですし、
-3人とも中学では吹奏楽部に入るそうです。(あとは長女だけ)&lt;br /&gt;
-周りを見ていてもあり得ないほどの仲の良さだと思います。&lt;br /&gt;
-同じくらいの兄弟のいる親族や子供たちの友達の親に「仲がいいねぇ」と言われたりもします。&lt;/p&gt;
-
-&lt;p&gt;幼児の時からずっとそうです。&lt;br /&gt;
-「子供が可愛いのは小さいうちだけ」なんて数え切れないほど言われましたが、中学生になった今でも相変わらず可愛いです。&lt;br /&gt;
-もちろん反抗期的なものはありますし、親に完全に従順というわけではありません。&lt;br /&gt;
-たびたび様々な問題が起こったりはするのですが、
-それは当たり前なので特に問題ありません。&lt;/p&gt;
-
-&lt;p&gt;これは完全に僕の周辺や子供たちの友達の家族を観察したことによる僕の個人的な考えなのですが、
-「親同士が仲がいいと子供同士は仲が良くなるし、親同士が仲が悪いと子供同士も仲が悪い」です。&lt;br /&gt;
-同様に、母親が父親をバカにしていれば子どもたちは父親をバカにします。(もちろん逆もです)&lt;/p&gt;
-
-&lt;p&gt;子は親を見て育つと言いますが「こんなにわかりやすいものなのか」と感心するほどです。&lt;br /&gt;
-うちは妻が僕を罵倒したり、僕が妻を罵倒したりはしませんし、
-喧嘩して怒鳴り合ったりもしません。&lt;br /&gt;
-あとは「お兄ちゃんなんだから」とか「女の子なんだから」とかその人の属性によった叱り方はしませんでした。その時の状況を見て、やるべき方にやらせ、叱るべき方を叱ります。&lt;br /&gt;
-こんな環境だからこそ、兄弟が仲良く育ったんだと思います。&lt;/p&gt;
-
-&lt;p&gt;ただ、心配もあります。&lt;br /&gt;
-家族仲良く悪意というものに晒されたことがないので、社会に出てからいきなり修羅の国を体験するわけです。&lt;br /&gt;
-心が折れてしまうんじゃないだろうかと思います。&lt;/p&gt;
-
-&lt;p&gt;親がいい大学やいい企業に子供を行かせたい気持ちがわかりました。&lt;/p&gt;
-
-&lt;p&gt;ドラマや映画では貧しかったり頭の悪い人が善人に描かれることが多いですが、悲しいかな現実は逆です。&lt;br /&gt;
-頭が良いほど、お金持ちなほど、善人の確率は高いです。&lt;br /&gt;
-(もちろん当たり前ですが貧乏な善人やお金持ちの悪人はいますよ)&lt;/p&gt;
-
-&lt;p&gt;さてさて、なるべく子供の将来には干渉はしないようにしていますが、これからどうなるんでしょう。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>発達障害の人は人より遅く成長する</title>
-      <link>http://marony.github.io/post/post_20190115221915/</link>
-      <pubDate>Tue, 15 Jan 2019 22:19:15 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190115221915/</guid>
-      <description>
-
-&lt;h2 id=&#34;発達障害の人は人より遅く成長する&#34;&gt;発達障害の人は人より遅く成長する&lt;/h2&gt;
-
-&lt;p&gt;僕は過去にASD(アスペ)と診断されました。&lt;br /&gt;
-また、自己判断ですがADHDもそこそこありそうだと思っています。&lt;/p&gt;
-
-&lt;p&gt;借金玉という人の「発達障害の僕が「食える人」に変わった すごい仕事術」という本の内容と(なぜか)かなり被るのですが、
-若い頃は記憶力が悪いのをアインシュタインと同じだと喜んでいましたし、
-30歳までに絶対に死ぬと思いこんでいました。&lt;br /&gt;
-もちろん根拠なんてありませんでした。&lt;/p&gt;
-
-&lt;p&gt;そんな僕ですが、今では40歳を超えてしまいました。&lt;br /&gt;
-結婚もして3人の子供もいます。
-とりあえず普通の人並みの衣食住をしています。&lt;br /&gt;
-小学生から始めたプログラミングでASDお得意の過集中を武器にお仕事をしています。&lt;/p&gt;
-
-&lt;p&gt;ここ最近はコミュ力こそ相変わらず不足しているものの、奇妙な行動や思考はかなり減ったと思っています。&lt;br /&gt;
-(若い頃の奇妙な行動や思考については酷すぎて忘れてないと死にたくなるので書けません)&lt;/p&gt;
-
-&lt;p&gt;それもこれもよくよく考えてみれば「自分以外に人間がいると気がついたから」なんです。&lt;br /&gt;
-これ、わかるでしょうか？&lt;br /&gt;
-わからないですよね、普通の人はおそらく幼児期に習得するのだと思います。&lt;/p&gt;
-
-&lt;p&gt;自分以外に人がいることは認識していますし、
-世界中に人間がたくさんいることも知識として知っています。&lt;br /&gt;
-ところが、他の人が自分と同じように「自身で考え自律的に動く」ということを実感としてわかっていませんでした。&lt;/p&gt;
-
-&lt;p&gt;30歳を過ぎてからめきめきこの感覚が身につきました。&lt;br /&gt;
-結婚して子供ができたからかも知れません。&lt;br /&gt;
-とても人間的で野性的な妻と長く一緒にいたからかも知れません。&lt;/p&gt;
-
-&lt;p&gt;人を人と認識すると、愛や友情というもの、コネや仲間というもの、チームや組織というもの、僕は相変わらず好きでも得意でもありませんが、そういうものが理解できました。&lt;br /&gt;
-また、世界には競争相手がたくさんいて、自分はたいした人間ではないのだから勉強をし続けなければならないとわかりました。&lt;/p&gt;
-
-&lt;p&gt;他の人より(かなり)遅く心と脳の成長が始まりました。&lt;br /&gt;
-嫌いなことにも価値を見いだせるようになりました。&lt;br /&gt;
-僕には18歳からの大学生は早すぎたんだと思います。&lt;br /&gt;
-大学受験が30歳ならば、まともに勉強してまともに卒業していた気がします。&lt;/p&gt;
-
-&lt;p&gt;人より遅く成長が始まった分まだまだ成長します。&lt;br /&gt;
-その前に身体的な劣化(≒老化)が進んでしまいますが…&lt;br /&gt;
-もちろん症状やレベルは人それぞれなので当てはまらない人もいると思います。&lt;br /&gt;
-でも僕はこれを信じていますし、信じているからこそ勉強を続けたいと思っています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>老いると言うこと</title>
-      <link>http://marony.github.io/post/post_20190111065024/</link>
-      <pubDate>Fri, 11 Jan 2019 06:50:24 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190111065024/</guid>
-      <description>
-
-&lt;h2 id=&#34;老いると言うこと&#34;&gt;老いると言うこと&lt;/h2&gt;
-
-&lt;p&gt;僕もとうとう40代半ばになり、
-体力や脳みその衰えを感じるようになってきました。&lt;br /&gt;
-中身は中学生くらいで止まっているのに、もう中年なんだから不思議な気持ちです。&lt;/p&gt;
-
-&lt;p&gt;若い頃は「老いる」ということを漠然と考えていました。&lt;br /&gt;
-「老いる」という抽象的な言葉の意味をあまり探らずに
-「老いる」んだろうなぁ、
-と思っていました。&lt;br /&gt;
-「老いる」という単語を信じて思考停止していました。&lt;/p&gt;
-
-&lt;p&gt;実際に老いてみると、&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;歯や骨や物理的な劣化&lt;/li&gt;
-&lt;li&gt;関節などの物理的な摩耗&lt;/li&gt;
-&lt;li&gt;汚物の付着による色素の沈着、それによる働きの阻害&lt;/li&gt;
-&lt;li&gt;思考や行動の長期間の習慣による思考や細胞・器官の固定化(最適化)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amzn.asia/9FISHMC&#34;&gt;欲しい物リスト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/_marony&#34;&gt;Twitter&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/_marony?ref_src=twsrc%5Etfw&#34; class=&#34;twitter-follow-button&#34; data-show-count=&#34;false&#34;&gt;Follow @_marony&lt;/a&gt;&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/li&gt;
+&lt;li&gt;コード &lt;a href=&#34;https://github.com/marony&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;作曲 &lt;a href=&#34;https://soundcloud.com/marony0607/&#34;&gt;SoundCloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;細胞が再生しなくなっているなぁ、長年の汚れが溜まっているんだななぁ、というのをはっきりと感じます。&lt;/p&gt;
+&lt;h2 id=&#34;githubリポジトリ&#34;&gt;GitHubリポジトリ&lt;/h2&gt;
 
-&lt;p&gt;こう考えると、
-不老不死の薬なんてひとつの薬で老いが止められるとは思えません。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/goropbox&#34;&gt;Go + Dropboxでリモートコマンド実行&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/rl-maze&#34;&gt;Scalaで強化学習で迷路&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/pi_js&#34;&gt;JavaScriptでPIを計算するよ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marony.github.io/lifegame_pde/&#34;&gt;processingでライフゲーム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/diskreport&#34;&gt;Scalaでディスク容量表示アプリ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/katamino-solver&#34;&gt;Katamino(カタミノ)解いてる&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/fix-const&#34;&gt;VSCodeのネタ機能拡張作ったり&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/monhanxx&#34;&gt;モンハンXX攻略アプリ(Ruby + Python(Django))&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/tf-fizzbuzz&#34;&gt;TensorFlowでFizzBuzz(Python)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/raft_test&#34;&gt;ScalaのAKKAでRaftアルゴリズムを試した&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/youtuber&#34;&gt;YouTubeダウンロードサイト(Scala)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/kuina-sudoku&#34;&gt;くいなちゃんのトランプ数独解法アルゴリズム(Clojure)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/SudokuCS&#34;&gt;C#で数独を解くプログラム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/SudokuFS&#34;&gt;F#で数独を解くプログラム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/Syogaku4&#34;&gt;小学4年生の息子の問題を解く(Scala)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/TenPuzzle&#34;&gt;10パズル(Scala)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/syogi&#34;&gt;アルゴリズム対戦将棋(Clojureのお勉強)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/worker&#34;&gt;社畜.net(ClojureでWebサービス)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/scala3d_wireframe&#34;&gt;Scalaで3D表示してみたり…&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/cpp3d&#34;&gt;C++で3D表示してみたり&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marony/rust3d&#34;&gt;Rustで3D表示してみたり&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;あ、母親が不老不死だった「塔の上のラプンツェル」
-いい映画です。&lt;br /&gt;
-ディズニー映画だと「アナと雪の女王」が同時期に流行っていましたが、
-それよりも全然おもしろいです。&lt;br /&gt;
-オススメです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ITエンジニアに学歴が必要か</title>
-      <link>http://marony.github.io/post/post_20190109204906/</link>
-      <pubDate>Wed, 09 Jan 2019 20:49:06 DST</pubDate>
-      
-      <guid>http://marony.github.io/post/post_20190109204906/</guid>
-      <description>
+&lt;h2 id=&#34;作曲とか&#34;&gt;作曲とか&lt;/h2&gt;
 
-&lt;h2 id=&#34;itエンジニアに学歴が必要か&#34;&gt;ITエンジニアに学歴が必要か&lt;/h2&gt;
+&lt;p&gt;
+【初音ミク】空中散歩【オリジナル曲】
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/127523460&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
 
-&lt;p&gt;僕は大学中退です。&lt;/p&gt;
+&lt;p&gt;
+【初音ミク】大江戸夫婦旅情【オリジナル曲】
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/137619535&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
 
-&lt;p&gt;高校生の途中で理系と文系にわかれることを知った上に
-「理系には女の子がいない」という驚愕の事実さえも耳にして、
-得意だった物理と数学を捨てて必死で世界史と国語を頑張って、後は得意だった英語で文系の大学に入りました。&lt;br /&gt;
-今思えば女の子に縁なんてなかったのになぜそこまで衝動的に行動したのか全く意味がわかりません。&lt;br /&gt;
-誰か教えてください。&lt;/p&gt;
+&lt;p&gt;
+【初音ミク】怪鳥ロックに乗って！【オリジナル曲】
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/134696311&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
 
-&lt;p&gt;文系大学には無事に入学できましたが、
-特に彼女ができたりはしませんでした。&lt;br /&gt;
-男よりも女の子の方が多いというのは僕の目指した環境だったはずです。&lt;/p&gt;
 
-&lt;p&gt;ところが結局勉強がつまらなくて中退しました。&lt;br /&gt;
-そこから2年ほどプログラマのアルバイトをしていましたが、
-なぜかベンチャー企業(今の会社の前身)の目に止まり焼き肉を奢ってもらったので就職しました。&lt;/p&gt;
+&lt;p&gt;
+酒と女と大五郎
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/yANz6JCAZpg&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
 
-&lt;p&gt;関係ないですが最近は放送大学に入ってまして、
-仕事が不定期に超忙しくなる上に勉強したいことは他にも山積みで卒業は絶望的なのですが、
-大学を卒業してみたいという気持ちは一応あったりします。&lt;/p&gt;
+&lt;p&gt;
+【初音ミク】空中散歩【オリジナル曲】
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/hTnRftoXmAA&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
 
-&lt;p&gt;ところで、最近は分散技術や機械学習のおかげで博士号持ちの方を多く目にするようになりました。&lt;br /&gt;
-またアメリカではそもそも博士号持ちでないとITエンジニアにはなれないという話も聞きます。&lt;/p&gt;
 
-&lt;p&gt;ITエンジニアは専門的な知識が必要な職ですのでこの流れは正しいのだと思います。&lt;br /&gt;
-ソフトウェア開発の環境はどんどん自動化・省力化され便利なツールもどんどん出てきて、
-本来注力すべきドメイン部分に力を入れられるようになってきました。&lt;br /&gt;
-これからさらにソフトウェア開発が対象とするビジネスは複雑化・高度化し、
-専門知識がないと戦えないようになっていくはずです。&lt;br /&gt;
-このような方々がIT業界に増えれば世界でも戦えるようになるし、
-何より頭のいい人たちなので業界を良くしてくれるだろうと思っています。&lt;/p&gt;
+&lt;h2 id=&#34;思い出の写真&#34;&gt;思い出の写真&lt;/h2&gt;
 
-&lt;p&gt;結論としては今までのような職人タイプではなくて絶対に博士号を持っているような人たちが必要ですよね。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/1464560511355.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;ただし懸念もあります。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/IMG_20160922_172626.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;IT業界にはまだまだ力作業がたくさん残っています。&lt;br /&gt;
-人と人とで成り立つ部分も多いです。&lt;/p&gt;
-
-&lt;p&gt;これらは高学歴の人たちがやることではないですし、かと言ってすぐになくなるとも思えません。&lt;br /&gt;
-IT業界の中で研究職と土方にわかれていくのでしょうか？&lt;br /&gt;
-学歴のない人たちが土方をして泥臭い部分を担っていくのでしょうか？&lt;br /&gt;
-会社単位では既にこうなりつつある雰囲気は感じますね。&lt;/p&gt;
-
-&lt;p&gt;僕はプログラミング以外にできることもないので、
-どんどん業界の片隅に追いやられるのは辛いなぁと思います。&lt;br /&gt;
-土方として働くにしても、体力の衰えや親の介護が視界に入ってきているので
-若い人ほど長時間働けません。&lt;br /&gt;
-勤務時間なしにしても最近の若い人は優秀ですしね。&lt;br /&gt;
-子供もいておっさんですので今から他業種への転職もなかなか厳しいところ。&lt;/p&gt;
-
-&lt;p&gt;学歴は必要だと思うし高学歴の人がどんどんIT業界に入ってきてほしいけど、
-僕はこれからどうすればいいのでしょうね…&lt;br /&gt;
-コンピュータ技術の勉強は一生続けると思いますが、
-基礎脳力が違う人たちで溢れる業界で生き残ることができるでしょうか。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/P_20180116_200111_vHDR_On.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
