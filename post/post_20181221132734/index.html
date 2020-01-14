@@ -127,12 +127,8 @@
       <div class="content-wrapper__inner">
         <div class="post">
           <span class="post-date">Fri, Dec 21, 2018</span>
-          
-
-<h2 id="hugoでmermaid-jsを使えるようにした">HugoでMermaid.jsを使えるようにした</h2>
-
+          <h2 id="hugomermaidjs">HugoでMermaid.jsを使えるようにした</h2>
 <p>こう書けば、</p>
-
 <pre><code>｛｛&lt; mermaid align=&quot;left&quot; &gt;｝｝
   graph LR;
   A[Hard edge] --&gt;|Link text| B(Round edge)
@@ -140,10 +136,7 @@
   C --&gt;|One| D[Result one]
   C --&gt;|Two| E[Result two]
 ｛｛&lt; /mermaid &gt;｝｝
-</code></pre>
-
-<p>こうなる。</p>
-
+</code></pre><p>こうなる。</p>
 <div class="mermaid" align="left">
   graph LR;
   A[Hard edge] -->|Link text| B(Round edge)
@@ -152,8 +145,7 @@
   C -->|Two| E[Result two]
 </div>
 
-
-<p>※ コードブロックでエラーが出るので安直に半角の&rsquo;{&lsquo;, &lsquo;}&lsquo;を全角の&rsquo;｛&rsquo;, &lsquo;｝&rsquo;に置換して回避してます…</p>
+<p>※ コードブロックでエラーが出るので安直に半角の&rsquo;{', &lsquo;}&lsquo;を全角の&rsquo;｛', &lsquo;｝&lsquo;に置換して回避してます…</p>
 
         </div>
         <div class="sharing">
@@ -193,8 +185,8 @@
     </div>
 
   </body>
-  <link href="/mermaid/mermaid.css?1574569775" type="text/css" rel="stylesheet" />
-<script src="/mermaid/mermaid.js?1574569775"></script>
+  <link href="/mermaid/mermaid.css?1578993227" type="text/css" rel="stylesheet" />
+<script src="/mermaid/mermaid.js?1578993227"></script>
 <script>
     mermaid.initialize({ startOnLoad: true });
 </script>
