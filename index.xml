@@ -26,11 +26,12 @@
       <description>&lt;h2 id=&#34;heading&#34;&gt;人種&lt;/h2&gt;
 &lt;p&gt;C#プログラマ@東京&lt;/p&gt;
 &lt;h2 id=&#34;heading1&#34;&gt;構成要素&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div&gt;
+    &lt;canvas id=&#34;profileChart&#34; width=&#34;860&#34; height=&#34;400&#34;&gt;&lt;/canvas&gt;
 &lt;pre&gt;&lt;code&gt;&amp;lt;script src=&amp;quot;../../js/chartData.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
 &amp;lt;script src=&amp;quot;../../js/Chart.min.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://amzn.asia/9FISHMC&#34;&gt;欲しい物リスト&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/_marony&#34;&gt;Twitter&lt;/a&gt;
