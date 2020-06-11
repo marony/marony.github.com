@@ -127,11 +127,11 @@
       <div class="content-wrapper__inner">
         <div class="post">
           <span class="post-date">Wed, Feb 20, 2019</span>
-          <h2 id="c">C#でハマった</h2>
+          <h2 id="cでハマった">C#でハマった</h2>
 <p>最近久しぶりにC#でハマったので備忘録です。<br>
 lock中で要素を列挙したかったのですが、ロックの外での列挙になってしまい<code>System.InvalidOperationException: コレクションが変更されました。列挙操作は実行されない可能性があります。</code>が発生してしまっていました。</p>
 <p>簡易的なコードは下記</p>
-<h3 id="heading">正しいコード</h3>
+<h3 id="正しいコード">正しいコード</h3>
 <div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
 <table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
 <pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
@@ -233,7 +233,7 @@ lock中で要素を列挙したかったのですが、ロックの外での列�
 </code></pre></td></tr></table>
 </div>
 </div>
-<h3 id="heading1">結果</h3>
+<h3 id="結果">結果</h3>
 <pre><code>ENTER: Loop1
 ENTER: Enum1
 1
@@ -241,7 +241,7 @@ ENTER: Enum1
 3
 EXIT: Enum1
 EXIT: Loop1
-</code></pre><h3 id="heading2">間違ったコード</h3>
+</code></pre><h3 id="間違ったコード">間違ったコード</h3>
 <div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
 <table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
 <pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
@@ -369,7 +369,7 @@ EXIT: Loop1
 </code></pre></td></tr></table>
 </div>
 </div>
-<h3 id="heading3">結果</h3>
+<h3 id="結果-1">結果</h3>
 <pre><code>ENTER: Loop2
 ENTER: Enum2
 EXIT: Enum2
@@ -379,7 +379,7 @@ ENTER: InnerEnum2
 3
 EXIT: InnerEnum2
 EXIT: Loop2
-</code></pre><h3 id="enum2ok">Enum2を下記のように修正すればOK</h3>
+</code></pre><h3 id="enum2を下記のように修正すればok">Enum2を下記のように修正すればOK</h3>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="color:#66d9ef">static</span> IEnumerable&lt;<span style="color:#66d9ef">int</span>&gt; Enum2()
 {
     Console.WriteLine(<span style="color:#e6db74">&#34;ENTER: Enum2&#34;</span>);
@@ -436,8 +436,8 @@ EXIT: Loop2
     </div>
 
   </body>
-  <link href="/mermaid/mermaid.css?1579014771" type="text/css" rel="stylesheet" />
-<script src="/mermaid/mermaid.js?1579014771"></script>
+  <link href="/mermaid/mermaid.css?1591887578" type="text/css" rel="stylesheet" />
+<script src="/mermaid/mermaid.js?1591887578"></script>
 <script>
     mermaid.initialize({ startOnLoad: true });
 </script>

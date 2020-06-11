@@ -23,9 +23,9 @@
       <pubDate>Sat, 05 Jan 2019 09:29:42 JST</pubDate>
       
       <guid>http://marony.github.io/profile/</guid>
-      <description>&lt;h2 id=&#34;heading&#34;&gt;人種&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;人種&#34;&gt;人種&lt;/h2&gt;
 &lt;p&gt;C#プログラマ@東京&lt;/p&gt;
-&lt;h2 id=&#34;heading1&#34;&gt;構成要素&lt;/h2&gt;
+&lt;h2 id=&#34;構成要素&#34;&gt;構成要素&lt;/h2&gt;
 &lt;div&gt;
     &lt;canvas id=&#34;profileChart&#34; width=&#34;860&#34; height=&#34;400&#34;&gt;&lt;/canvas&gt;
     
@@ -42,7 +42,7 @@
 &lt;li&gt;コード &lt;a href=&#34;https://github.com/marony&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;作曲 &lt;a href=&#34;https://soundcloud.com/marony0607/&#34;&gt;SoundCloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;github&#34;&gt;GitHubリポジトリ&lt;/h2&gt;
+&lt;h2 id=&#34;githubリポジトリ&#34;&gt;GitHubリポジトリ&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/marony/youtuberoid&#34;&gt;Youtubeダウンロード Androidアプリ&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/marony/goropbox&#34;&gt;Go + Dropboxでリモートコマンド実行&lt;/a&gt;&lt;/li&gt;
@@ -67,7 +67,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/marony/cpp3d&#34;&gt;C++で3D表示してみたり&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/marony/rust3d&#34;&gt;Rustで3D表示してみたり&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;dji-mavic-mini&#34;&gt;作曲とかドローン(DJI Mavic Mini)とか&lt;/h2&gt;
+&lt;h2 id=&#34;作曲とかドローンdji-mavic-miniとか&#34;&gt;作曲とかドローン(DJI Mavic Mini)とか&lt;/h2&gt;
 &lt;p&gt;
 【初音ミク】空中散歩【オリジナル曲】
 &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/127523460&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;
@@ -113,7 +113,7 @@
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/hTnRftoXmAA&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;heading2&#34;&gt;思い出の写真&lt;/h2&gt;
+&lt;h2 id=&#34;思い出の写真&#34;&gt;思い出の写真&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/1464560511355.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/IMG_20160922_172626.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://marony.github.io/images/profile/P_20180116_200111_vHDR_On.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
